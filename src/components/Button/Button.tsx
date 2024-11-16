@@ -7,7 +7,9 @@ interface ButtonProps {
   color?: "primary" | "secondary";
   icon?: keyof typeof MuiIcons;
   iconPosition?: "left" | "right" | "only";
-  onClick: () => void;
+  type?: "button" | "submit" | "reset" | undefined;
+  disabled?: boolean;
+  onClick?: () => void;
 }
 
 export function Button({
@@ -16,6 +18,8 @@ export function Button({
   color = "primary",
   icon,
   iconPosition = "left",
+  type = "button",
+  disabled,
   onClick,
 }: ButtonProps) {
   const [hover, setHover] = useState(false);
@@ -33,7 +37,7 @@ export function Button({
   };
 
   const variantType = {
-    default: `${bgColor[color]} bg-opacity-80 text-white hover:bg-opacity-100`,
+    default: `${bgColor[color]} bg-opacity-80 text-white hover:bg-opacity-100 ${disabled && "bg-opacity-40 hover:bg-opacity-40 cursor-not-allowed"}`,
     outline: `border ${borderColor[color]} text-[#333333] ${hover && bgColor[color]} hover:text-white hover:bg-opacity-60`,
     ghost: `text-[#333333] hover:${bgColor[color]} hover:text-white hover:bg-opacity-70 ${hover && bgColor[color]}`,
   };
@@ -42,10 +46,13 @@ export function Button({
     <button
       className={`p-3 w-auto h-auto rounded-lg ${variantType[variant]} flex items-center justify-center gap-1`}
       data-testid="button"
-      type="button"
+      type={type}
+      disabled={disabled}
       onMouseEnter={() => setHover(true)}
       onMouseLeave={() => setHover(false)}
-      onClick={onClick}
+      onClick={() => {
+        if (type === "button" && onClick) onClick();
+      }}
     >
       {iconPosition === "left" && IconElement && (
         <IconElement data-testid={`left-${icon}`} fontSize="small" />

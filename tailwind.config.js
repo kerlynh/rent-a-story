@@ -10,6 +10,10 @@ export default {
         primary: "#FF5722",
         secondary: "#3A8DFF",
       },
+      fontFamily: {
+        cinzel: ["Cinzel", "sans-serif"],
+        playfair: ["Playfair Display", "sans-serif"],
+      },
     },
   },
   plugins: [],
