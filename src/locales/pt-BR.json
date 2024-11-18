@@ -1,0 +1,22 @@
+{
+  "search": "Pesquisar",
+  "title": "Título",
+  "author": "Autor",
+  "available": "Disponível",
+  "login": "Entrar",
+  "english": "Inglês",
+  "portuguese:": "Português",
+  "username": "Nome de usuário",
+  "password": "Senha",
+  "login_error": "Usuário ou senha inválidos",
+  "logout": "Sair",
+  "rent_now": "Alugar",
+  "book_rented": "O livro foi alugado com sucesso",
+  "gender": "Gênero",
+  "synopsis": "Sinopse",
+  "price": "Preço",
+  "access": "Acessar",
+  "cancel": "Cancelar",
+  "yes": "yes",
+  "you_need_logged": "Você precisa estar logado para ver este conteúdo"
+}

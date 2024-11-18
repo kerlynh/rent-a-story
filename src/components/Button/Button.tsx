@@ -1,5 +1,5 @@
 import * as MuiIcons from "@mui/icons-material";
-import { useState } from "react";
+import { MutableRefObject, useState } from "react";
 
 interface ButtonProps {
   text?: string;
@@ -9,6 +9,7 @@ interface ButtonProps {
   iconPosition?: "left" | "right" | "only";
   type?: "button" | "submit" | "reset" | undefined;
   disabled?: boolean;
+  buttonRef?: MutableRefObject<HTMLButtonElement | null>;
   onClick?: () => void;
 }
 
@@ -20,6 +21,7 @@ export function Button({
   iconPosition = "left",
   type = "button",
   disabled,
+  buttonRef,
   onClick,
 }: ButtonProps) {
   const [hover, setHover] = useState(false);
@@ -39,11 +41,12 @@ export function Button({
   const variantType = {
     default: `${bgColor[color]} bg-opacity-80 text-white hover:bg-opacity-100 ${disabled && "bg-opacity-40 hover:bg-opacity-40 cursor-not-allowed"}`,
     outline: `border ${borderColor[color]} text-[#333333] ${hover && bgColor[color]} hover:text-white hover:bg-opacity-60`,
-    ghost: `text-[#333333] hover:${bgColor[color]} hover:text-white hover:bg-opacity-70 ${hover && bgColor[color]}`,
+    ghost: `text-[#333333] hover:${bgColor[color]} hover:bg-opacity-70 hover:bg-gray-100`,
   };
 
   return (
     <button
+      ref={buttonRef}
       className={`p-3 w-auto h-auto rounded-lg ${variantType[variant]} flex items-center justify-center gap-1`}
       data-testid="button"
       type={type}

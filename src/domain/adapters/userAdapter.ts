@@ -7,5 +7,5 @@ export const adaptLoginResponse = (response: User): UserData | undefined => {
     localStorage.setItem("token", JSON.stringify(decodedToken));
     return decodedToken;
   }
-  throw new Error("Usuário ou senha inválidos");
+  throw new Error("login_error");
 };

@@ -1,0 +1,22 @@
+{
+  "search": "Search",
+  "title": "Title",
+  "author": "Author",
+  "available": "Available",
+  "login": "Login",
+  "english": "English",
+  "portuguese": "Portuguese",
+  "username": "Username",
+  "password": "Password",
+  "login_error": "Invalid username or password",
+  "logout": "Logout",
+  "rent_now": "Rent Now",
+  "book_rented": "The book was rented successfully",
+  "gender": "Genre",
+  "synopsis": "Synopsis",
+  "price": "Price",
+  "access": "Access",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "you_need_logged": "You need to be logged in to view this content"
+}

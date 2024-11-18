@@ -4,63 +4,19 @@
       "id": "u1",
       "username": "jessica_jones",
       "password": "1234"
-    },
-    {
-      "id": "f573",
-      "body": {
-        "username": "",
-        "password": ""
-      }
-    },
-    {
-      "id": "1a57",
-      "body": {
-        "username": "",
-        "password": ""
-      }
-    },
-    {
-      "id": "77f4",
-      "username": "",
-      "password": ""
-    },
-    {
-      "id": "9b12",
-      "username": "asdasd",
-      "password": "asdasd"
-    },
-    {
-      "id": "4f22",
-      "username": "jessica_jones",
-      "password": "1234"
-    },
-    {
-      "id": "373d",
-      "username": "jessica_jones",
-      "password": "1234"
-    },
-    {
-      "id": "ff84",
-      "username": "jessica_jones",
-      "password": "1234"
-    },
-    {
-      "id": "f79a",
-      "username": "jessica_jones",
-      "password": "1234"
     }
   ],
   "books": [
     {
       "id": 1,
       "title": {
-        "portuguese": "Dom Casmurro",
-        "english": "Dom Casmurro"
+        "pt-BR": "Dom Casmurro",
+        "en": "Dom Casmurro"
       },
       "author": "Machado de Assis",
       "description": {
-        "portuguese": "Bentinho narra sua história de amor com Capitu e as dúvidas sobre a fidelidade dela.",
-        "english": "Bentinho tells his love story with Capitu and his doubts about her fidelity."
+        "pt-BR": "Bentinho narra sua história de amor com Capitu e as dúvidas sobre a fidelidade dela.",
+        "en": "Bentinho tells his love story with Capitu and his doubts about her fidelity."
       },
       "price": 15,
       "image": "https://example.com/images/dom-casmurro.jpg",
@@ -68,21 +24,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Clássico", "Literatura", "Literatura Brasileira"],
-        "english": ["Classic", "Literature", "Brazilian Literature"]
+        "pt-BR": ["Clássico", "Literatura", "Literatura Brasileira"],
+        "en": ["Classic", "Literature", "Brazilian Literature"]
       },
       "publish_date": "1899-01-01"
     },
     {
       "id": 2,
       "title": {
-        "portuguese": "Memórias Póstumas de Brás Cubas",
-        "english": "The Posthumous Memoirs of Bras Cubas"
+        "pt-BR": "Memórias Póstumas de Brás Cubas",
+        "en": "The Posthumous Memoirs of Bras Cubas"
       },
       "author": "Machado de Assis",
       "description": {
-        "portuguese": "O narrador Brás Cubas conta sua história a partir do além-túmulo, refletindo sobre a vida.",
-        "english": "The narrator, Brás Cubas, tells his story from beyond the grave, reflecting on life."
+        "pt-BR": "O narrador Brás Cubas conta sua história a partir do além-túmulo, refletindo sobre a vida.",
+        "en": "The narrator, Brás Cubas, tells his story from beyond the grave, reflecting on life."
       },
       "price": 16,
       "image": "https://example.com/images/memorias-postumas-de-bras-cubas.jpg",
@@ -90,21 +46,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Clássico", "Literatura", "Literatura Brasileira"],
-        "english": ["Classic", "Literature", "Brazilian Literature"]
+        "pt-BR": ["Clássico", "Literatura", "Literatura Brasileira"],
+        "en": ["Classic", "Literature", "Brazilian Literature"]
       },
       "publish_date": "1881-01-01"
     },
     {
       "id": 3,
       "title": {
-        "portuguese": "Cem Anos de Solidão",
-        "english": "One Hundred Years of Solitude"
+        "pt-BR": "Cem Anos de Solidão",
+        "en": "One Hundred Years of Solitude"
       },
       "author": "Gabriel García Márquez",
       "description": {
-        "portuguese": "A saga da família Buendía na fictícia Macondo, abordando o realismo mágico.",
-        "english": "The saga of the Buendía family in the fictional town of Macondo, dealing with magical realism."
+        "pt-BR": "A saga da família Buendía na fictícia Macondo, abordando o realismo mágico.",
+        "en": "The saga of the Buendía family in the fictional town of Macondo, dealing with magical realism."
       },
       "price": 20,
       "image": "https://example.com/images/cem-anos-de-solidao.jpg",
@@ -112,21 +68,21 @@
       "availability": true,
       "rating": 5,
       "genre": {
-        "portuguese": ["Realismo Mágico", "Literatura", "Ficção"],
-        "english": ["Magical Realism", "Literature", "Fiction"]
+        "pt-BR": ["Realismo Mágico", "Literatura", "Ficção"],
+        "en": ["Magical Realism", "Literature", "Fiction"]
       },
       "publish_date": "1967-06-05"
     },
     {
       "id": 4,
       "title": {
-        "portuguese": "A Moreninha",
-        "english": "The Brunette"
+        "pt-BR": "A Moreninha",
+        "en": "The Brunette"
       },
       "author": "Joaquim Manuel de Macedo",
       "description": {
-        "portuguese": "Um romance de costumes que conta a história de amor entre Augusto e a enigmática Moreninha.",
-        "english": "A romantic novel of manners telling the love story between Augusto and the enigmatic Brunette."
+        "pt-BR": "Um romance de costumes que conta a história de amor entre Augusto e a enigmática Moreninha.",
+        "en": "A romantic novel of manners telling the love story between Augusto and the enigmatic Brunette."
       },
       "price": 12,
       "image": "https://example.com/images/a-moreninha.jpg",
@@ -134,21 +90,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Literatura Brasileira"],
-        "english": ["Romance", "Classic", "Brazilian Literature"]
+        "pt-BR": ["Romance", "Clássico", "Literatura Brasileira"],
+        "en": ["Romance", "Classic", "Brazilian Literature"]
       },
       "publish_date": "1844-01-01"
     },
     {
       "id": 5,
       "title": {
-        "portuguese": "O Primo Basílio",
-        "english": "Cousin Basílio"
+        "pt-BR": "O Primo Basílio",
+        "en": "Cousin Basílio"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "Uma crítica social sobre o adultério e a hipocrisia da sociedade carioca do século XIX.",
-        "english": "A social critique about adultery and the hypocrisy of 19th century Rio de Janeiro society."
+        "pt-BR": "Uma crítica social sobre o adultério e a hipocrisia da sociedade carioca do século XIX.",
+        "en": "A social critique about adultery and the hypocrisy of 19th century Rio de Janeiro society."
       },
       "price": 14,
       "image": "https://example.com/images/o-primo-basilio.jpg",
@@ -156,21 +112,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Clássico", "Romance", "Literatura Brasileira"],
-        "english": ["Classic", "Romance", "Brazilian Literature"]
+        "pt-BR": ["Clássico", "Romance", "Literatura Brasileira"],
+        "en": ["Classic", "Romance", "Brazilian Literature"]
       },
       "publish_date": "1882-01-01"
     },
     {
       "id": 6,
       "title": {
-        "portuguese": "Senhora",
-        "english": "Lady"
+        "pt-BR": "Senhora",
+        "en": "Lady"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "O romance narra a história de amor entre Aurélia e o homem de seu destino, com temas de honra e vingança.",
-        "english": "The novel tells the love story between Aurélia and the man of her destiny, with themes of honor and revenge."
+        "pt-BR": "O romance narra a história de amor entre Aurélia e o homem de seu destino, com temas de honra e vingança.",
+        "en": "The novel tells the love story between Aurélia and the man of her destiny, with themes of honor and revenge."
       },
       "price": 13,
       "image": "https://example.com/images/senhora.jpg",
@@ -178,21 +134,21 @@
       "availability": false,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Clássico", "Romance", "Literatura Brasileira"],
-        "english": ["Classic", "Romance", "Brazilian Literature"]
+        "pt-BR": ["Clássico", "Romance", "Literatura Brasileira"],
+        "en": ["Classic", "Romance", "Brazilian Literature"]
       },
       "publish_date": "1875-01-01"
     },
     {
       "id": 7,
       "title": {
-        "portuguese": "O Cortiço",
-        "english": "The Slum"
+        "pt-BR": "O Cortiço",
+        "en": "The Slum"
       },
       "author": "Aluísio Azevedo",
       "description": {
-        "portuguese": "Uma crítica à sociedade carioca do século XIX, que explora as condições de vida em um cortiço.",
-        "english": "A critique of 19th century Rio de Janeiro society, exploring the living conditions in a slum."
+        "pt-BR": "Uma crítica à sociedade carioca do século XIX, que explora as condições de vida em um cortiço.",
+        "en": "A critique of 19th century Rio de Janeiro society, exploring the living conditions in a slum."
       },
       "price": 17,
       "image": "https://example.com/images/o-cortico.jpg",
@@ -200,21 +156,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Naturalismo", "Literatura", "Literatura Brasileira"],
-        "english": ["Naturalism", "Literature", "Brazilian Literature"]
+        "pt-BR": ["Naturalismo", "Literatura", "Literatura Brasileira"],
+        "en": ["Naturalism", "Literature", "Brazilian Literature"]
       },
       "publish_date": "1890-01-01"
     },
     {
       "id": 8,
       "title": {
-        "portuguese": "Iracema",
-        "english": "Iracema"
+        "pt-BR": "Iracema",
+        "en": "Iracema"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "Um romance indianista sobre o amor entre um europeu e uma índia, situado no Brasil colonial.",
-        "english": "An Indianist novel about the love between a European and an indigenous woman, set in colonial Brazil."
+        "pt-BR": "Um romance indianista sobre o amor entre um europeu e uma índia, situado no Brasil colonial.",
+        "en": "An Indianist novel about the love between a European and an indigenous woman, set in colonial Brazil."
       },
       "price": 15,
       "image": "https://example.com/images/iracema.jpg",
@@ -222,21 +178,21 @@
       "availability": false,
       "rating": 4.4,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Literatura Brasileira"],
-        "english": ["Romance", "Classic", "Brazilian Literature"]
+        "pt-BR": ["Romance", "Clássico", "Literatura Brasileira"],
+        "en": ["Romance", "Classic", "Brazilian Literature"]
       },
       "publish_date": "1865-01-01"
     },
     {
       "id": 9,
       "title": {
-        "portuguese": "O Guarani",
-        "english": "The Guarani"
+        "pt-BR": "O Guarani",
+        "en": "The Guarani"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "Romance que explora o amor impossível entre uma jovem portuguesa e um índio guarani.",
-        "english": "A romance that explores the impossible love between a young Portuguese woman and a Guarani Indian."
+        "pt-BR": "Romance que explora o amor impossível entre uma jovem portuguesa e um índio guarani.",
+        "en": "A romance that explores the impossible love between a young Portuguese woman and a Guarani Indian."
       },
       "price": 13,
       "image": "https://example.com/images/o-guarani.jpg",
@@ -244,21 +200,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Literatura Brasileira"],
-        "english": ["Romance", "Classic", "Brazilian Literature"]
+        "pt-BR": ["Romance", "Clássico", "Literatura Brasileira"],
+        "en": ["Romance", "Classic", "Brazilian Literature"]
       },
       "publish_date": "1857-01-01"
     },
     {
       "id": 10,
       "title": {
-        "portuguese": "O Alquimista",
-        "english": "The Alchemist"
+        "pt-BR": "O Alquimista",
+        "en": "The Alchemist"
       },
       "author": "Paulo Coelho",
       "description": {
-        "portuguese": "A história de Santiago, um jovem pastor que busca realizar seu sonho e encontrar um tesouro.",
-        "english": "The story of Santiago, a young shepherd who seeks to realize his dream and find a treasure."
+        "pt-BR": "A história de Santiago, um jovem pastor que busca realizar seu sonho e encontrar um tesouro.",
+        "en": "The story of Santiago, a young shepherd who seeks to realize his dream and find a treasure."
       },
       "price": 18,
       "image": "https://example.com/images/o-alquimista.jpg",
@@ -266,21 +222,21 @@
       "availability": false,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Ficção", "Aventura", "Autoajuda"],
-        "english": ["Fiction", "Adventure", "Self-help"]
+        "pt-BR": ["Ficção", "Aventura", "Autoajuda"],
+        "en": ["Fiction", "Adventure", "Self-help"]
       },
       "publish_date": "1988-01-01"
     },
     {
       "id": 11,
       "title": {
-        "portuguese": "A Moreninha",
-        "english": "The Brunette"
+        "pt-BR": "A Moreninha",
+        "en": "The Brunette"
       },
       "author": "Joaquim Manuel de Macedo",
       "description": {
-        "portuguese": "Uma história de amor e mistério entre Augusto e a enigmática Moreninha.",
-        "english": "A love story and mystery between Augusto and the enigmatic Brunette."
+        "pt-BR": "Uma história de amor e mistério entre Augusto e a enigmática Moreninha.",
+        "en": "A love story and mystery between Augusto and the enigmatic Brunette."
       },
       "price": 13,
       "image": "https://example.com/images/a-moreninha.jpg",
@@ -288,21 +244,21 @@
       "availability": true,
       "rating": 4.4,
       "genre": {
-        "portuguese": ["Romance", "Literatura Brasileira", "Clássico"],
-        "english": ["Romance", "Brazilian Literature", "Classic"]
+        "pt-BR": ["Romance", "Literatura Brasileira", "Clássico"],
+        "en": ["Romance", "Brazilian Literature", "Classic"]
       },
       "publish_date": "1844-01-01"
     },
     {
       "id": 12,
       "title": {
-        "portuguese": "O Primo Basílio",
-        "english": "Cousin Basílio"
+        "pt-BR": "O Primo Basílio",
+        "en": "Cousin Basílio"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "Um romance de costumes e um estudo sobre a hipocrisia da sociedade carioca.",
-        "english": "A novel of manners and a study on the hypocrisy of Rio de Janeiro society."
+        "pt-BR": "Um romance de costumes e um estudo sobre a hipocrisia da sociedade carioca.",
+        "en": "A novel of manners and a study on the hypocrisy of Rio de Janeiro society."
       },
       "price": 14,
       "image": "https://example.com/images/o-primo-basilio.jpg",
@@ -310,21 +266,21 @@
       "availability": false,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Clássico", "Literatura", "Literatura Brasileira"],
-        "english": ["Classic", "Literature", "Brazilian Literature"]
+        "pt-BR": ["Clássico", "Literatura", "Literatura Brasileira"],
+        "en": ["Classic", "Literature", "Brazilian Literature"]
       },
       "publish_date": "1882-01-01"
     },
     {
       "id": 13,
       "title": {
-        "portuguese": "O Cortiço",
-        "english": "The Slum"
+        "pt-BR": "O Cortiço",
+        "en": "The Slum"
       },
       "author": "Aluísio Azevedo",
       "description": {
-        "portuguese": "A obra retrata as condições de vida em um cortiço, com crítica social profunda.",
-        "english": "The book portrays the living conditions in a slum, with a deep social critique."
+        "pt-BR": "A obra retrata as condições de vida em um cortiço, com crítica social profunda.",
+        "en": "The book portrays the living conditions in a slum, with a deep social critique."
       },
       "price": 15,
       "image": "https://example.com/images/o-cortico.jpg",
@@ -332,21 +288,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Naturalismo", "Literatura", "Literatura Brasileira"],
-        "english": ["Naturalism", "Literature", "Brazilian Literature"]
+        "pt-BR": ["Naturalismo", "Literatura", "Literatura Brasileira"],
+        "en": ["Naturalism", "Literature", "Brazilian Literature"]
       },
       "publish_date": "1890-01-01"
     },
     {
       "id": 14,
       "title": {
-        "portuguese": "Iracema",
-        "english": "Iracema"
+        "pt-BR": "Iracema",
+        "en": "Iracema"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "Romance indianista sobre o amor entre um europeu e uma índia.",
-        "english": "An Indianist romance about the love between a European and an indigenous woman."
+        "pt-BR": "Romance indianista sobre o amor entre um europeu e uma índia.",
+        "en": "An Indianist romance about the love between a European and an indigenous woman."
       },
       "price": 14,
       "image": "https://example.com/images/iracema.jpg",
@@ -354,21 +310,21 @@
       "availability": false,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Literatura Brasileira"],
-        "english": ["Romance", "Classic", "Brazilian Literature"]
+        "pt-BR": ["Romance", "Clássico", "Literatura Brasileira"],
+        "en": ["Romance", "Classic", "Brazilian Literature"]
       },
       "publish_date": "1865-01-01"
     },
     {
       "id": 15,
       "title": {
-        "portuguese": "O Guarani",
-        "english": "The Guarani"
+        "pt-BR": "O Guarani",
+        "en": "The Guarani"
       },
       "author": "José de Alencar",
       "description": {
-        "portuguese": "O amor impossível entre uma jovem portuguesa e um índio guarani.",
-        "english": "The impossible love between a young Portuguese woman and a Guarani Indian."
+        "pt-BR": "O amor impossível entre uma jovem portuguesa e um índio guarani.",
+        "en": "The impossible love between a young Portuguese woman and a Guarani Indian."
       },
       "price": 16,
       "image": "https://example.com/images/o-guarani.jpg",
@@ -376,21 +332,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Literatura Brasileira"],
-        "english": ["Romance", "Classic", "Brazilian Literature"]
+        "pt-BR": ["Romance", "Clássico", "Literatura Brasileira"],
+        "en": ["Romance", "Classic", "Brazilian Literature"]
       },
       "publish_date": "1857-01-01"
     },
     {
       "id": 16,
       "title": {
-        "portuguese": "O Alquimista",
-        "english": "The Alchemist"
+        "pt-BR": "O Alquimista",
+        "en": "The Alchemist"
       },
       "author": "Paulo Coelho",
       "description": {
-        "portuguese": "A história de Santiago, um jovem pastor que busca realizar seu sonho e encontrar um tesouro.",
-        "english": "The story of Santiago, a young shepherd who seeks to realize his dream and find a treasure."
+        "pt-BR": "A história de Santiago, um jovem pastor que busca realizar seu sonho e encontrar um tesouro.",
+        "en": "The story of Santiago, a young shepherd who seeks to realize his dream and find a treasure."
       },
       "price": 18,
       "image": "https://example.com/images/o-alquimista.jpg",
@@ -398,21 +354,21 @@
       "availability": false,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Ficção", "Aventura", "Autoajuda"],
-        "english": ["Fiction", "Adventure", "Self-help"]
+        "pt-BR": ["Ficção", "Aventura", "Autoajuda"],
+        "en": ["Fiction", "Adventure", "Self-help"]
       },
       "publish_date": "1988-01-01"
     },
     {
       "id": 17,
       "title": {
-        "portuguese": "O Príncipe",
-        "english": "The Prince"
+        "pt-BR": "O Príncipe",
+        "en": "The Prince"
       },
       "author": "Nicolau Maquiavel",
       "description": {
-        "portuguese": "Uma obra política que analisa as maneiras pelas quais um príncipe pode adquirir e manter poder.",
-        "english": "A political work analyzing how a prince can acquire and maintain power."
+        "pt-BR": "Uma obra política que analisa as maneiras pelas quais um príncipe pode adquirir e manter poder.",
+        "en": "A political work analyzing how a prince can acquire and maintain power."
       },
       "price": 12,
       "image": "https://example.com/images/o-principe.jpg",
@@ -420,21 +376,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Política", "Filosofia", "História"],
-        "english": ["Politics", "Philosophy", "History"]
+        "pt-BR": ["Política", "Filosofia", "História"],
+        "en": ["Politics", "Philosophy", "History"]
       },
       "publish_date": "1532-01-01"
     },
     {
       "id": 18,
       "title": {
-        "portuguese": "O Retrato de Dorian Gray",
-        "english": "The Picture of Dorian Gray"
+        "pt-BR": "O Retrato de Dorian Gray",
+        "en": "The Picture of Dorian Gray"
       },
       "author": "Oscar Wilde",
       "description": {
-        "portuguese": "A história de Dorian Gray, um jovem cuja imagem envelhece enquanto ele permanece imortal.",
-        "english": "The story of Dorian Gray, a young man whose portrait ages while he remains immortal."
+        "pt-BR": "A história de Dorian Gray, um jovem cuja imagem envelhece enquanto ele permanece imortal.",
+        "en": "The story of Dorian Gray, a young man whose portrait ages while he remains immortal."
       },
       "price": 16,
       "image": "https://example.com/images/o-retrato-de-dorian-gray.jpg",
@@ -442,21 +398,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Romance", "Clássico"],
-        "english": ["Fiction", "Romance", "Classic"]
+        "pt-BR": ["Ficção", "Romance", "Clássico"],
+        "en": ["Fiction", "Romance", "Classic"]
       },
       "publish_date": "1890-07-01"
     },
     {
       "id": 19,
       "title": {
-        "portuguese": "O Diário de Anne Frank",
-        "english": "The Diary of a Young Girl"
+        "pt-BR": "O Diário de Anne Frank",
+        "en": "The Diary of a Young Girl"
       },
       "author": "Anne Frank",
       "description": {
-        "portuguese": "O diário pessoal de Anne Frank, uma jovem judia que se escondeu durante a ocupação nazista.",
-        "english": "The personal diary of Anne Frank, a young Jewish girl who hid during the Nazi occupation."
+        "pt-BR": "O diário pessoal de Anne Frank, uma jovem judia que se escondeu durante a ocupação nazista.",
+        "en": "The personal diary of Anne Frank, a young Jewish girl who hid during the Nazi occupation."
       },
       "price": 14,
       "image": "https://example.com/images/o-diario-de-anne-frank.jpg",
@@ -464,21 +420,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Memórias", "História", "Não-Ficção"],
-        "english": ["Memoirs", "History", "Non-fiction"]
+        "pt-BR": ["Memórias", "História", "Não-Ficção"],
+        "en": ["Memoirs", "History", "Non-fiction"]
       },
       "publish_date": "1947-06-25"
     },
     {
       "id": 20,
       "title": {
-        "portuguese": "O Senhor dos Anéis: A Sociedade do Anel",
-        "english": "The Lord of the Rings: The Fellowship of the Ring"
+        "pt-BR": "O Senhor dos Anéis: A Sociedade do Anel",
+        "en": "The Lord of the Rings: The Fellowship of the Ring"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "O início da épica jornada de Frodo Bolseiro para destruir o Um Anel.",
-        "english": "The beginning of Frodo Baggins' epic journey to destroy the One Ring."
+        "pt-BR": "O início da épica jornada de Frodo Bolseiro para destruir o Um Anel.",
+        "en": "The beginning of Frodo Baggins' epic journey to destroy the One Ring."
       },
       "price": 22,
       "image": "https://example.com/images/o-senhor-dos-aneis.jpg",
@@ -486,21 +442,21 @@
       "availability": false,
       "rating": 5,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1954-07-29"
     },
     {
       "id": 21,
       "title": {
-        "portuguese": "1984",
-        "english": "1984"
+        "pt-BR": "1984",
+        "en": "1984"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Um romance distópico sobre um regime totalitário que vigia cada movimento de seus cidadãos.",
-        "english": "A dystopian novel about a totalitarian regime that watches every move of its citizens."
+        "pt-BR": "Um romance distópico sobre um regime totalitário que vigia cada movimento de seus cidadãos.",
+        "en": "A dystopian novel about a totalitarian regime that watches every move of its citizens."
       },
       "price": 18,
       "image": "https://example.com/images/1984.jpg",
@@ -508,21 +464,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Distopia", "Ficção Científica", "Política"],
-        "english": ["Dystopia", "Science Fiction", "Politics"]
+        "pt-BR": ["Distopia", "Ficção Científica", "Política"],
+        "en": ["Dystopia", "Science Fiction", "Politics"]
       },
       "publish_date": "1949-06-08"
     },
     {
       "id": 22,
       "title": {
-        "portuguese": "Fahrenheit 451",
-        "english": "Fahrenheit 451"
+        "pt-BR": "Fahrenheit 451",
+        "en": "Fahrenheit 451"
       },
       "author": "Ray Bradbury",
       "description": {
-        "portuguese": "Em um futuro distópico, os livros são proibidos e queimados pelos 'bombeiros'.",
-        "english": "In a dystopian future, books are banned and burned by the 'firemen'."
+        "pt-BR": "Em um futuro distópico, os livros são proibidos e queimados pelos 'bombeiros'.",
+        "en": "In a dystopian future, books are banned and burned by the 'firemen'."
       },
       "price": 17,
       "image": "https://example.com/images/fahrenheit-451.jpg",
@@ -530,21 +486,21 @@
       "availability": false,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Distopia", "Ficção Científica", "Literatura"],
-        "english": ["Dystopia", "Science Fiction", "Literature"]
+        "pt-BR": ["Distopia", "Ficção Científica", "Literatura"],
+        "en": ["Dystopia", "Science Fiction", "Literature"]
       },
       "publish_date": "1953-10-19"
     },
     {
       "id": 23,
       "title": {
-        "portuguese": "A Revolução dos Bichos",
-        "english": "Animal Farm"
+        "pt-BR": "A Revolução dos Bichos",
+        "en": "Animal Farm"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Uma fábula política que critica o totalitarismo e a corrupção do poder.",
-        "english": "A political fable that critiques totalitarianism and the corruption of power."
+        "pt-BR": "Uma fábula política que critica o totalitarismo e a corrupção do poder.",
+        "en": "A political fable that critiques totalitarianism and the corruption of power."
       },
       "price": 15,
       "image": "https://example.com/images/a-revolucao-dos-bichos.jpg",
@@ -552,21 +508,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fábula", "Política", "Ficção"],
-        "english": ["Fable", "Politics", "Fiction"]
+        "pt-BR": ["Fábula", "Política", "Ficção"],
+        "en": ["Fable", "Politics", "Fiction"]
       },
       "publish_date": "1945-08-17"
     },
     {
       "id": 24,
       "title": {
-        "portuguese": "O Processo",
-        "english": "The Trial"
+        "pt-BR": "O Processo",
+        "en": "The Trial"
       },
       "author": "Franz Kafka",
       "description": {
-        "portuguese": "A história de Josef K., que é preso e processado sem saber o crime que cometeu.",
-        "english": "The story of Josef K., who is arrested and prosecuted without ever being told what crime he committed."
+        "pt-BR": "A história de Josef K., que é preso e processado sem saber o crime que cometeu.",
+        "en": "The story of Josef K., who is arrested and prosecuted without ever being told what crime he committed."
       },
       "price": 16,
       "image": "https://example.com/images/o-processo.jpg",
@@ -574,21 +530,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Surrealismo", "Literatura"],
-        "english": ["Fiction", "Surrealism", "Literature"]
+        "pt-BR": ["Ficção", "Surrealismo", "Literatura"],
+        "en": ["Fiction", "Surrealism", "Literature"]
       },
       "publish_date": "1914-12-01"
     },
     {
       "id": 25,
       "title": {
-        "portuguese": "O Grande Gatsby",
-        "english": "The Great Gatsby"
+        "pt-BR": "O Grande Gatsby",
+        "en": "The Great Gatsby"
       },
       "author": "F. Scott Fitzgerald",
       "description": {
-        "portuguese": "A história de Jay Gatsby e sua obsessão por Daisy Buchanan no período da Grande Depressão.",
-        "english": "The story of Jay Gatsby and his obsession with Daisy Buchanan during the Great Depression."
+        "pt-BR": "A história de Jay Gatsby e sua obsessão por Daisy Buchanan no período da Grande Depressão.",
+        "en": "The story of Jay Gatsby and his obsession with Daisy Buchanan during the Great Depression."
       },
       "price": 14,
       "image": "https://example.com/images/o-grande-gatsby.jpg",
@@ -596,21 +552,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Romance", "Ficção", "Clássico"],
-        "english": ["Romance", "Fiction", "Classic"]
+        "pt-BR": ["Romance", "Ficção", "Clássico"],
+        "en": ["Romance", "Fiction", "Classic"]
       },
       "publish_date": "1925-04-10"
     },
     {
       "id": 26,
       "title": {
-        "portuguese": "O Hobbit",
-        "english": "The Hobbit"
+        "pt-BR": "O Hobbit",
+        "en": "The Hobbit"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "A jornada de Bilbo Bolseiro para recuperar um tesouro guardado por um dragão.",
-        "english": "Bilbo Baggins' journey to recover a treasure guarded by a dragon."
+        "pt-BR": "A jornada de Bilbo Bolseiro para recuperar um tesouro guardado por um dragão.",
+        "en": "Bilbo Baggins' journey to recover a treasure guarded by a dragon."
       },
       "price": 20,
       "image": "https://example.com/images/o-hobbit.jpg",
@@ -618,21 +574,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Ficção"],
-        "english": ["Fantasy", "Adventure", "Fiction"]
+        "pt-BR": ["Fantasia", "Aventura", "Ficção"],
+        "en": ["Fantasy", "Adventure", "Fiction"]
       },
       "publish_date": "1937-09-21"
     },
     {
       "id": 27,
       "title": {
-        "portuguese": "Matar a Saudade",
-        "english": "Killing the Nostalgia"
+        "pt-BR": "Matar a Saudade",
+        "en": "Killing the Nostalgia"
       },
       "author": "Lúcia Machado de Almeida",
       "description": {
-        "portuguese": "Uma análise profunda das relações humanas e da memória afetiva.",
-        "english": "A deep analysis of human relationships and emotional memory."
+        "pt-BR": "Uma análise profunda das relações humanas e da memória afetiva.",
+        "en": "A deep analysis of human relationships and emotional memory."
       },
       "price": 14,
       "image": "https://example.com/images/matar-a-saudade.jpg",
@@ -640,21 +596,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Drama", "Literatura Brasileira", "Ficção"],
-        "english": ["Drama", "Brazilian Literature", "Fiction"]
+        "pt-BR": ["Drama", "Literatura Brasileira", "Ficção"],
+        "en": ["Drama", "Brazilian Literature", "Fiction"]
       },
       "publish_date": "2015-04-10"
     },
     {
       "id": 28,
       "title": {
-        "portuguese": "As Cidades Invisíveis",
-        "english": "Invisible Cities"
+        "pt-BR": "As Cidades Invisíveis",
+        "en": "Invisible Cities"
       },
       "author": "Italo Calvino",
       "description": {
-        "portuguese": "O livro narra uma série de conversas entre o imperador Kublai Khan e o explorador Marco Polo.",
-        "english": "The book narrates a series of conversations between Emperor Kublai Khan and explorer Marco Polo."
+        "pt-BR": "O livro narra uma série de conversas entre o imperador Kublai Khan e o explorador Marco Polo.",
+        "en": "The book narrates a series of conversations between Emperor Kublai Khan and explorer Marco Polo."
       },
       "price": 18,
       "image": "https://example.com/images/as-cidades-invisiveis.jpg",
@@ -662,21 +618,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Ficção", "Literatura", "Clássico"],
-        "english": ["Fiction", "Literature", "Classic"]
+        "pt-BR": ["Ficção", "Literatura", "Clássico"],
+        "en": ["Fiction", "Literature", "Classic"]
       },
       "publish_date": "1972-01-01"
     },
     {
       "id": 29,
       "title": {
-        "portuguese": "O Enigma de Outro Mundo",
-        "english": "The Thing"
+        "pt-BR": "O Enigma de Outro Mundo",
+        "en": "The Thing"
       },
       "author": "John W. Campbell",
       "description": {
-        "portuguese": "Um conto de ficção científica sobre uma entidade alienígena que pode assumir a forma de qualquer ser vivo.",
-        "english": "A science fiction story about an alien entity that can assume the form of any living being."
+        "pt-BR": "Um conto de ficção científica sobre uma entidade alienígena que pode assumir a forma de qualquer ser vivo.",
+        "en": "A science fiction story about an alien entity that can assume the form of any living being."
       },
       "price": 15,
       "image": "https://example.com/images/o-enigma-de-outro-mundo.jpg",
@@ -684,21 +640,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Ficção Científica", "Terror", "Mistério"],
-        "english": ["Science Fiction", "Horror", "Mystery"]
+        "pt-BR": ["Ficção Científica", "Terror", "Mistério"],
+        "en": ["Science Fiction", "Horror", "Mystery"]
       },
       "publish_date": "1938-08-01"
     },
     {
       "id": 30,
       "title": {
-        "portuguese": "A Caverna",
-        "english": "The Cave"
+        "pt-BR": "A Caverna",
+        "en": "The Cave"
       },
       "author": "José Saramago",
       "description": {
-        "portuguese": "A obra trata da alienação e das relações entre a sociedade e os indivíduos em um cenário moderno.",
-        "english": "The work addresses alienation and the relationships between society and individuals in a modern setting."
+        "pt-BR": "A obra trata da alienação e das relações entre a sociedade e os indivíduos em um cenário moderno.",
+        "en": "The work addresses alienation and the relationships between society and individuals in a modern setting."
       },
       "price": 19,
       "image": "https://example.com/images/a-caverna.jpg",
@@ -706,21 +662,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Literatura", "Ficção", "Clássico"],
-        "english": ["Literature", "Fiction", "Classic"]
+        "pt-BR": ["Literatura", "Ficção", "Clássico"],
+        "en": ["Literature", "Fiction", "Classic"]
       },
       "publish_date": "2000-09-01"
     },
     {
       "id": 31,
       "title": {
-        "portuguese": "O Velho e o Mar",
-        "english": "The Old Man and the Sea"
+        "pt-BR": "O Velho e o Mar",
+        "en": "The Old Man and the Sea"
       },
       "author": "Ernest Hemingway",
       "description": {
-        "portuguese": "A história de um velho pescador cubano e sua luta épica contra um marlim gigante.",
-        "english": "The story of an old Cuban fisherman and his epic struggle with a giant marlin."
+        "pt-BR": "A história de um velho pescador cubano e sua luta épica contra um marlim gigante.",
+        "en": "The story of an old Cuban fisherman and his epic struggle with a giant marlin."
       },
       "price": 12,
       "image": "https://example.com/images/o-velho-e-o-mar.jpg",
@@ -728,21 +684,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Aventura", "Drama", "Clássico"],
-        "english": ["Adventure", "Drama", "Classic"]
+        "pt-BR": ["Aventura", "Drama", "Clássico"],
+        "en": ["Adventure", "Drama", "Classic"]
       },
       "publish_date": "1952-09-01"
     },
     {
       "id": 32,
       "title": {
-        "portuguese": "As Aventuras de Sherlock Holmes",
-        "english": "The Adventures of Sherlock Holmes"
+        "pt-BR": "As Aventuras de Sherlock Holmes",
+        "en": "The Adventures of Sherlock Holmes"
       },
       "author": "Arthur Conan Doyle",
       "description": {
-        "portuguese": "Coleção de histórias sobre o famoso detetive Sherlock Holmes e seu amigo Dr. Watson.",
-        "english": "A collection of stories about the famous detective Sherlock Holmes and his friend Dr. Watson."
+        "pt-BR": "Coleção de histórias sobre o famoso detetive Sherlock Holmes e seu amigo Dr. Watson.",
+        "en": "A collection of stories about the famous detective Sherlock Holmes and his friend Dr. Watson."
       },
       "price": 13,
       "image": "https://example.com/images/as-aventuras-de-sherlock-holmes.jpg",
@@ -750,21 +706,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Mistério", "Policial", "Aventura"],
-        "english": ["Mystery", "Detective", "Adventure"]
+        "pt-BR": ["Mistério", "Policial", "Aventura"],
+        "en": ["Mystery", "Detective", "Adventure"]
       },
       "publish_date": "1892-10-14"
     },
     {
       "id": 33,
       "title": {
-        "portuguese": "O Sol é Para Todos",
-        "english": "To Kill a Mockingbird"
+        "pt-BR": "O Sol é Para Todos",
+        "en": "To Kill a Mockingbird"
       },
       "author": "Harper Lee",
       "description": {
-        "portuguese": "A história de uma jovem que cresce em uma cidade do sul dos EUA durante a Grande Depressão, acompanhando a luta do pai contra o racismo.",
-        "english": "The story of a young girl growing up in a small Southern town during the Great Depression, following her father's fight against racism."
+        "pt-BR": "A história de uma jovem que cresce em uma cidade do sul dos EUA durante a Grande Depressão, acompanhando a luta do pai contra o racismo.",
+        "en": "The story of a young girl growing up in a small Southern town during the Great Depression, following her father's fight against racism."
       },
       "price": 18,
       "image": "https://example.com/images/o-sol-e-para-todos.jpg",
@@ -772,21 +728,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "Clássico"],
-        "english": ["Fiction", "Drama", "Classic"]
+        "pt-BR": ["Ficção", "Drama", "Clássico"],
+        "en": ["Fiction", "Drama", "Classic"]
       },
       "publish_date": "1960-07-11"
     },
     {
       "id": 34,
       "title": {
-        "portuguese": "O Morro dos Ventos Uivantes",
-        "english": "Wuthering Heights"
+        "pt-BR": "O Morro dos Ventos Uivantes",
+        "en": "Wuthering Heights"
       },
       "author": "Emily Brontë",
       "description": {
-        "portuguese": "O romance trágico e sombrio de Heathcliff e Catherine, com suas paixões intensas e destrutivas.",
-        "english": "The tragic and dark romance of Heathcliff and Catherine, with their intense and destructive passions."
+        "pt-BR": "O romance trágico e sombrio de Heathcliff e Catherine, com suas paixões intensas e destrutivas.",
+        "en": "The tragic and dark romance of Heathcliff and Catherine, with their intense and destructive passions."
       },
       "price": 16,
       "image": "https://example.com/images/o-morro-dos-ventos-uivantes.jpg",
@@ -794,21 +750,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Romance", "Gótico", "Clássico"],
-        "english": ["Romance", "Gothic", "Classic"]
+        "pt-BR": ["Romance", "Gótico", "Clássico"],
+        "en": ["Romance", "Gothic", "Classic"]
       },
       "publish_date": "1847-12-01"
     },
     {
       "id": 35,
       "title": {
-        "portuguese": "Cem Anos de Solidão",
-        "english": "One Hundred Years of Solitude"
+        "pt-BR": "Cem Anos de Solidão",
+        "en": "One Hundred Years of Solitude"
       },
       "author": "Gabriel García Márquez",
       "description": {
-        "portuguese": "A história épica da família Buendía, entrelaçada com o realismo mágico e o destino trágico de seus membros.",
-        "english": "The epic story of the Buendía family, intertwined with magical realism and the tragic fate of its members."
+        "pt-BR": "A história épica da família Buendía, entrelaçada com o realismo mágico e o destino trágico de seus membros.",
+        "en": "The epic story of the Buendía family, intertwined with magical realism and the tragic fate of its members."
       },
       "price": 20,
       "image": "https://example.com/images/cem-anos-de-solidao.jpg",
@@ -816,25 +772,21 @@
       "availability": true,
       "rating": 5,
       "genre": {
-        "portuguese": [
-          "Realismo Mágico",
-          "Ficção",
-          "Literatura Latino-Americana"
-        ],
-        "english": ["Magical Realism", "Fiction", "Latin American Literature"]
+        "pt-BR": ["Realismo Mágico", "Ficção", "Literatura Latino-Americana"],
+        "en": ["Magical Realism", "Fiction", "Latin American Literature"]
       },
       "publish_date": "1967-06-05"
     },
     {
       "id": 36,
       "title": {
-        "portuguese": "Orgulho e Preconceito",
-        "english": "Pride and Prejudice"
+        "pt-BR": "Orgulho e Preconceito",
+        "en": "Pride and Prejudice"
       },
       "author": "Jane Austen",
       "description": {
-        "portuguese": "A história de Elizabeth Bennet e sua relação com o orgulhoso Mr. Darcy em um contexto de classes sociais rígidas.",
-        "english": "The story of Elizabeth Bennet and her relationship with the proud Mr. Darcy in a context of rigid social classes."
+        "pt-BR": "A história de Elizabeth Bennet e sua relação com o orgulhoso Mr. Darcy em um contexto de classes sociais rígidas.",
+        "en": "The story of Elizabeth Bennet and her relationship with the proud Mr. Darcy in a context of rigid social classes."
       },
       "price": 12,
       "image": "https://example.com/images/orgulho-e-preconceito.jpg",
@@ -842,21 +794,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Literatura Inglesa"],
-        "english": ["Romance", "Classic", "English Literature"]
+        "pt-BR": ["Romance", "Clássico", "Literatura Inglesa"],
+        "en": ["Romance", "Classic", "English Literature"]
       },
       "publish_date": "1813-01-28"
     },
     {
       "id": 37,
       "title": {
-        "portuguese": "Moby Dick",
-        "english": "Moby-Dick"
+        "pt-BR": "Moby Dick",
+        "en": "Moby-Dick"
       },
       "author": "Herman Melville",
       "description": {
-        "portuguese": "A história épica da obsessão de Ishmael com a baleia branca Moby Dick, que simboliza o mal e a natureza imortal.",
-        "english": "The epic story of Ishmael's obsession with the white whale Moby Dick, symbolizing evil and immortality."
+        "pt-BR": "A história épica da obsessão de Ishmael com a baleia branca Moby Dick, que simboliza o mal e a natureza imortal.",
+        "en": "The epic story of Ishmael's obsession with the white whale Moby Dick, symbolizing evil and immortality."
       },
       "price": 17,
       "image": "https://example.com/images/moby-dick.jpg",
@@ -864,21 +816,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Aventura", "Ficção", "Clássico"],
-        "english": ["Adventure", "Fiction", "Classic"]
+        "pt-BR": ["Aventura", "Ficção", "Clássico"],
+        "en": ["Adventure", "Fiction", "Classic"]
       },
       "publish_date": "1851-11-14"
     },
     {
       "id": 38,
       "title": {
-        "portuguese": "O Senhor dos Anéis: As Duas Torres",
-        "english": "The Lord of the Rings: The Two Towers"
+        "pt-BR": "O Senhor dos Anéis: As Duas Torres",
+        "en": "The Lord of the Rings: The Two Towers"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "O segundo volume da épica jornada de Frodo Bolseiro e seus amigos na luta contra o Senhor do Escuro, Sauron.",
-        "english": "The second volume of Frodo Baggins' epic journey and his friends in the fight against the Dark Lord Sauron."
+        "pt-BR": "O segundo volume da épica jornada de Frodo Bolseiro e seus amigos na luta contra o Senhor do Escuro, Sauron.",
+        "en": "The second volume of Frodo Baggins' epic journey and his friends in the fight against the Dark Lord Sauron."
       },
       "price": 22,
       "image": "https://example.com/images/o-senhor-dos-aneis-as-duas-torres.jpg",
@@ -886,21 +838,21 @@
       "availability": false,
       "rating": 5,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1954-11-11"
     },
     {
       "id": 39,
       "title": {
-        "portuguese": "O Senhor dos Anéis: O Retorno do Rei",
-        "english": "The Lord of the Rings: The Return of the King"
+        "pt-BR": "O Senhor dos Anéis: O Retorno do Rei",
+        "en": "The Lord of the Rings: The Return of the King"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "O último volume da jornada épica de Frodo Bolseiro para destruir o Um Anel e derrotar Sauron de uma vez por todas.",
-        "english": "The final volume of Frodo Baggins' epic journey to destroy the One Ring and defeat Sauron once and for all."
+        "pt-BR": "O último volume da jornada épica de Frodo Bolseiro para destruir o Um Anel e derrotar Sauron de uma vez por todas.",
+        "en": "The final volume of Frodo Baggins' epic journey to destroy the One Ring and defeat Sauron once and for all."
       },
       "price": 24,
       "image": "https://example.com/images/o-senhor-dos-aneis-o-retorno-do-rei.jpg",
@@ -908,21 +860,21 @@
       "availability": true,
       "rating": 5,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1955-10-20"
     },
     {
       "id": 40,
       "title": {
-        "portuguese": "O Pequeno Príncipe",
-        "english": "The Little Prince"
+        "pt-BR": "O Pequeno Príncipe",
+        "en": "The Little Prince"
       },
       "author": "Antoine de Saint-Exupéry",
       "description": {
-        "portuguese": "A história do pequeno príncipe que viaja de planeta em planeta, aprendendo lições sobre amizade e amor.",
-        "english": "The story of the little prince who travels from planet to planet, learning lessons about friendship and love."
+        "pt-BR": "A história do pequeno príncipe que viaja de planeta em planeta, aprendendo lições sobre amizade e amor.",
+        "en": "The story of the little prince who travels from planet to planet, learning lessons about friendship and love."
       },
       "price": 12,
       "image": "https://example.com/images/o-pequeno-prince.jpg",
@@ -930,21 +882,21 @@
       "availability": false,
       "rating": 5,
       "genre": {
-        "portuguese": ["Fábula", "Infantil", "Filosofia"],
-        "english": ["Fable", "Children's", "Philosophy"]
+        "pt-BR": ["Fábula", "Infantil", "Filosofia"],
+        "en": ["Fable", "Children's", "Philosophy"]
       },
       "publish_date": "1943-04-06"
     },
     {
       "id": 41,
       "title": {
-        "portuguese": "Drácula",
-        "english": "Dracula"
+        "pt-BR": "Drácula",
+        "en": "Dracula"
       },
       "author": "Bram Stoker",
       "description": {
-        "portuguese": "O romance gótico que introduziu o icônico personagem de vampiro, Conde Drácula.",
-        "english": "The Gothic novel that introduced the iconic vampire character, Count Dracula."
+        "pt-BR": "O romance gótico que introduziu o icônico personagem de vampiro, Conde Drácula.",
+        "en": "The Gothic novel that introduced the iconic vampire character, Count Dracula."
       },
       "price": 18,
       "image": "https://example.com/images/dracula.jpg",
@@ -952,21 +904,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Gótico", "Terror", "Clássico"],
-        "english": ["Gothic", "Horror", "Classic"]
+        "pt-BR": ["Gótico", "Terror", "Clássico"],
+        "en": ["Gothic", "Horror", "Classic"]
       },
       "publish_date": "1897-05-26"
     },
     {
       "id": 42,
       "title": {
-        "portuguese": "O Código Da Vinci",
-        "english": "The Da Vinci Code"
+        "pt-BR": "O Código Da Vinci",
+        "en": "The Da Vinci Code"
       },
       "author": "Dan Brown",
       "description": {
-        "portuguese": "Um thriller que mistura arte, história e religião, com uma busca por um segredo ancestral.",
-        "english": "A thriller that blends art, history, and religion, with a search for an ancient secret."
+        "pt-BR": "Um thriller que mistura arte, história e religião, com uma busca por um segredo ancestral.",
+        "en": "A thriller that blends art, history, and religion, with a search for an ancient secret."
       },
       "price": 19,
       "image": "https://example.com/images/o-codigo-da-vinci.jpg",
@@ -974,21 +926,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Mistério", "Thriller", "Suspense"],
-        "english": ["Mystery", "Thriller", "Suspense"]
+        "pt-BR": ["Mistério", "Thriller", "Suspense"],
+        "en": ["Mystery", "Thriller", "Suspense"]
       },
       "publish_date": "2003-03-18"
     },
     {
       "id": 43,
       "title": {
-        "portuguese": "Harry Potter e a Pedra Filosofal",
-        "english": "Harry Potter and the Sorcerer's Stone"
+        "pt-BR": "Harry Potter e a Pedra Filosofal",
+        "en": "Harry Potter and the Sorcerer's Stone"
       },
       "author": "J.K. Rowling",
       "description": {
-        "portuguese": "O primeiro livro da série Harry Potter, onde o jovem bruxo descobre seu destino e a magia.",
-        "english": "The first book in the Harry Potter series, where the young wizard discovers his destiny and magic."
+        "pt-BR": "O primeiro livro da série Harry Potter, onde o jovem bruxo descobre seu destino e a magia.",
+        "en": "The first book in the Harry Potter series, where the young wizard discovers his destiny and magic."
       },
       "price": 23,
       "image": "https://example.com/images/harry-potter-e-a-pedra-filosofal.jpg",
@@ -996,21 +948,21 @@
       "availability": false,
       "rating": 5,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Infantil"],
-        "english": ["Fantasy", "Adventure", "Children's"]
+        "pt-BR": ["Fantasia", "Aventura", "Infantil"],
+        "en": ["Fantasy", "Adventure", "Children's"]
       },
       "publish_date": "1997-06-26"
     },
     {
       "id": 44,
       "title": {
-        "portuguese": "O Nome do Vento",
-        "english": "The Name of the Wind"
+        "pt-BR": "O Nome do Vento",
+        "en": "The Name of the Wind"
       },
       "author": "Patrick Rothfuss",
       "description": {
-        "portuguese": "A história de Kvothe, um jovem talentoso que busca entender seu destino e os segredos de sua vida.",
-        "english": "The story of Kvothe, a talented young man who seeks to understand his destiny and the secrets of his life."
+        "pt-BR": "A história de Kvothe, um jovem talentoso que busca entender seu destino e os segredos de sua vida.",
+        "en": "The story of Kvothe, a talented young man who seeks to understand his destiny and the secrets of his life."
       },
       "price": 22,
       "image": "https://example.com/images/o-nome-do-vento.jpg",
@@ -1018,21 +970,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "2007-03-27"
     },
     {
       "id": 45,
       "title": {
-        "portuguese": "O Pintassilgo",
-        "english": "The Goldfinch"
+        "pt-BR": "O Pintassilgo",
+        "en": "The Goldfinch"
       },
       "author": "Donna Tartt",
       "description": {
-        "portuguese": "A história de Theo Decker, um garoto que sobrevive a um atentado terrorista e leva consigo um tesouro artístico.",
-        "english": "The story of Theo Decker, a boy who survives a terrorist attack and carries with him an artistic treasure."
+        "pt-BR": "A história de Theo Decker, um garoto que sobrevive a um atentado terrorista e leva consigo um tesouro artístico.",
+        "en": "The story of Theo Decker, a boy who survives a terrorist attack and carries with him an artistic treasure."
       },
       "price": 25,
       "image": "https://example.com/images/o-pintassilgo.jpg",
@@ -1040,21 +992,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "Arte"],
-        "english": ["Fiction", "Drama", "Art"]
+        "pt-BR": ["Ficção", "Drama", "Arte"],
+        "en": ["Fiction", "Drama", "Art"]
       },
       "publish_date": "2013-10-22"
     },
     {
       "id": 46,
       "title": {
-        "portuguese": "O Grande Gatsby",
-        "english": "The Great Gatsby"
+        "pt-BR": "O Grande Gatsby",
+        "en": "The Great Gatsby"
       },
       "author": "F. Scott Fitzgerald",
       "description": {
-        "portuguese": "A história de Jay Gatsby, um milionário misterioso que tenta reconquistar o amor perdido em uma sociedade cheia de excessos.",
-        "english": "The story of Jay Gatsby, a mysterious millionaire who tries to win back his lost love in a society full of excess."
+        "pt-BR": "A história de Jay Gatsby, um milionário misterioso que tenta reconquistar o amor perdido em uma sociedade cheia de excessos.",
+        "en": "The story of Jay Gatsby, a mysterious millionaire who tries to win back his lost love in a society full of excess."
       },
       "price": 16,
       "image": "https://example.com/images/o-grande-gatsby.jpg",
@@ -1062,21 +1014,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Ficção", "Clássico", "Romance"],
-        "english": ["Fiction", "Classic", "Romance"]
+        "pt-BR": ["Ficção", "Clássico", "Romance"],
+        "en": ["Fiction", "Classic", "Romance"]
       },
       "publish_date": "1925-04-10"
     },
     {
       "id": 47,
       "title": {
-        "portuguese": "A Revolução dos Bichos",
-        "english": "Animal Farm"
+        "pt-BR": "A Revolução dos Bichos",
+        "en": "Animal Farm"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Uma sátira política que descreve a ascensão de uma revolução em uma fazenda, que se transforma em uma tirania totalitária.",
-        "english": "A political satire that describes the rise of a revolution on a farm, which transforms into a totalitarian tyranny."
+        "pt-BR": "Uma sátira política que descreve a ascensão de uma revolução em uma fazenda, que se transforma em uma tirania totalitária.",
+        "en": "A political satire that describes the rise of a revolution on a farm, which transforms into a totalitarian tyranny."
       },
       "price": 13,
       "image": "https://example.com/images/a-revolucao-dos-bichos.jpg",
@@ -1084,21 +1036,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Política", "Sátira"],
-        "english": ["Fiction", "Politics", "Satire"]
+        "pt-BR": ["Ficção", "Política", "Sátira"],
+        "en": ["Fiction", "Politics", "Satire"]
       },
       "publish_date": "1945-08-17"
     },
     {
       "id": 48,
       "title": {
-        "portuguese": "1984",
-        "english": "1984"
+        "pt-BR": "1984",
+        "en": "1984"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Um romance distópico que descreve um futuro totalitário onde o governo controla todos os aspectos da vida.",
-        "english": "A dystopian novel describing a totalitarian future where the government controls every aspect of life."
+        "pt-BR": "Um romance distópico que descreve um futuro totalitário onde o governo controla todos os aspectos da vida.",
+        "en": "A dystopian novel describing a totalitarian future where the government controls every aspect of life."
       },
       "price": 18,
       "image": "https://example.com/images/1984.jpg",
@@ -1106,21 +1058,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Distopia", "Ficção", "Política"],
-        "english": ["Dystopia", "Fiction", "Politics"]
+        "pt-BR": ["Distopia", "Ficção", "Política"],
+        "en": ["Dystopia", "Fiction", "Politics"]
       },
       "publish_date": "1949-06-08"
     },
     {
       "id": 49,
       "title": {
-        "portuguese": "O Hobbit",
-        "english": "The Hobbit"
+        "pt-BR": "O Hobbit",
+        "en": "The Hobbit"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "A aventura de Bilbo Bolseiro, um hobbit que se junta a um grupo de anões para recuperar um tesouro guardado por um dragão.",
-        "english": "The adventure of Bilbo Baggins, a hobbit who joins a group of dwarves to recover treasure guarded by a dragon."
+        "pt-BR": "A aventura de Bilbo Bolseiro, um hobbit que se junta a um grupo de anões para recuperar um tesouro guardado por um dragão.",
+        "en": "The adventure of Bilbo Baggins, a hobbit who joins a group of dwarves to recover treasure guarded by a dragon."
       },
       "price": 15,
       "image": "https://example.com/images/o-hobbit.jpg",
@@ -1128,21 +1080,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1937-09-21"
     },
     {
       "id": 50,
       "title": {
-        "portuguese": "A Menina que Roubava Livros",
-        "english": "The Book Thief"
+        "pt-BR": "A Menina que Roubava Livros",
+        "en": "The Book Thief"
       },
       "author": "Markus Zusak",
       "description": {
-        "portuguese": "A história de Liesel, uma jovem menina que encontra consolo em roubar livros durante a Segunda Guerra Mundial.",
-        "english": "The story of Liesel, a young girl who finds solace in stealing books during World War II."
+        "pt-BR": "A história de Liesel, uma jovem menina que encontra consolo em roubar livros durante a Segunda Guerra Mundial.",
+        "en": "The story of Liesel, a young girl who finds solace in stealing books during World War II."
       },
       "price": 20,
       "image": "https://example.com/images/a-menina-que-roubava-livros.jpg",
@@ -1150,21 +1102,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Ficção", "História", "Drama"],
-        "english": ["Fiction", "Historical", "Drama"]
+        "pt-BR": ["Ficção", "História", "Drama"],
+        "en": ["Fiction", "Historical", "Drama"]
       },
       "publish_date": "2005-03-14"
     },
     {
       "id": 51,
       "title": {
-        "portuguese": "O Caçador de Pipas",
-        "english": "The Kite Runner"
+        "pt-BR": "O Caçador de Pipas",
+        "en": "The Kite Runner"
       },
       "author": "Khaled Hosseini",
       "description": {
-        "portuguese": "A história de Amir e Hassan, dois meninos de diferentes classes sociais, e o impacto da amizade deles na vida deles e na história do Afeganistão.",
-        "english": "The story of Amir and Hassan, two boys from different social classes, and the impact of their friendship on their lives and the history of Afghanistan."
+        "pt-BR": "A história de Amir e Hassan, dois meninos de diferentes classes sociais, e o impacto da amizade deles na vida deles e na história do Afeganistão.",
+        "en": "The story of Amir and Hassan, two boys from different social classes, and the impact of their friendship on their lives and the history of Afghanistan."
       },
       "price": 19,
       "image": "https://example.com/images/o-cacador-de-pipas.jpg",
@@ -1172,21 +1124,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "História"],
-        "english": ["Fiction", "Drama", "History"]
+        "pt-BR": ["Ficção", "Drama", "História"],
+        "en": ["Fiction", "Drama", "History"]
       },
       "publish_date": "2003-05-29"
     },
     {
       "id": 52,
       "title": {
-        "portuguese": "A Guerra dos Tronos",
-        "english": "A Game of Thrones"
+        "pt-BR": "A Guerra dos Tronos",
+        "en": "A Game of Thrones"
       },
       "author": "George R.R. Martin",
       "description": {
-        "portuguese": "O primeiro livro da série 'As Crônicas de Gelo e Fogo', uma história épica de intriga política e batalhas pela conquista do trono de ferro.",
-        "english": "The first book in the 'A Song of Ice and Fire' series, an epic story of political intrigue and battles for the Iron Throne."
+        "pt-BR": "O primeiro livro da série 'As Crônicas de Gelo e Fogo', uma história épica de intriga política e batalhas pela conquista do trono de ferro.",
+        "en": "The first book in the 'A Song of Ice and Fire' series, an epic story of political intrigue and battles for the Iron Throne."
       },
       "price": 25,
       "image": "https://example.com/images/a-guerra-dos-tronos.jpg",
@@ -1194,21 +1146,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Fantasia", "Épico", "Aventura"],
-        "english": ["Fantasy", "Epic", "Adventure"]
+        "pt-BR": ["Fantasia", "Épico", "Aventura"],
+        "en": ["Fantasy", "Epic", "Adventure"]
       },
       "publish_date": "1996-08-06"
     },
     {
       "id": 53,
       "title": {
-        "portuguese": "O Príncipe",
-        "english": "The Prince"
+        "pt-BR": "O Príncipe",
+        "en": "The Prince"
       },
       "author": "Niccolò Machiavelli",
       "description": {
-        "portuguese": "Uma obra política que descreve como um líder deve agir para conquistar e manter o poder, usando qualquer meio necessário.",
-        "english": "A political work describing how a ruler should act to conquer and maintain power, using any necessary means."
+        "pt-BR": "Uma obra política que descreve como um líder deve agir para conquistar e manter o poder, usando qualquer meio necessário.",
+        "en": "A political work describing how a ruler should act to conquer and maintain power, using any necessary means."
       },
       "price": 10,
       "image": "https://example.com/images/o-principe.jpg",
@@ -1216,21 +1168,21 @@
       "availability": false,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Filosofia", "Política", "Clássico"],
-        "english": ["Philosophy", "Politics", "Classic"]
+        "pt-BR": ["Filosofia", "Política", "Clássico"],
+        "en": ["Philosophy", "Politics", "Classic"]
       },
       "publish_date": "1532-01-01"
     },
     {
       "id": 54,
       "title": {
-        "portuguese": "Fahrenheit 451",
-        "english": "Fahrenheit 451"
+        "pt-BR": "Fahrenheit 451",
+        "en": "Fahrenheit 451"
       },
       "author": "Ray Bradbury",
       "description": {
-        "portuguese": "Em um futuro distópico, os livros são proibidos e queimados, mas um bombeiro começa a questionar esse regime.",
-        "english": "In a dystopian future, books are banned and burned, but a fireman begins to question this regime."
+        "pt-BR": "Em um futuro distópico, os livros são proibidos e queimados, mas um bombeiro começa a questionar esse regime.",
+        "en": "In a dystopian future, books are banned and burned, but a fireman begins to question this regime."
       },
       "price": 14,
       "image": "https://example.com/images/fahrenheit-451.jpg",
@@ -1238,21 +1190,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Distopia", "Clássico"],
-        "english": ["Fiction", "Dystopia", "Classic"]
+        "pt-BR": ["Ficção", "Distopia", "Clássico"],
+        "en": ["Fiction", "Dystopia", "Classic"]
       },
       "publish_date": "1953-10-19"
     },
     {
       "id": 55,
       "title": {
-        "portuguese": "O Apanhador no Campo de Centeio",
-        "english": "The Catcher in the Rye"
+        "pt-BR": "O Apanhador no Campo de Centeio",
+        "en": "The Catcher in the Rye"
       },
       "author": "J.D. Salinger",
       "description": {
-        "portuguese": "A história de Holden Caulfield, um jovem que busca um significado para sua vida em uma sociedade que ele sente ser superficial.",
-        "english": "The story of Holden Caulfield, a young man searching for meaning in his life in a society he feels is shallow."
+        "pt-BR": "A história de Holden Caulfield, um jovem que busca um significado para sua vida em uma sociedade que ele sente ser superficial.",
+        "en": "The story of Holden Caulfield, a young man searching for meaning in his life in a society he feels is shallow."
       },
       "price": 17,
       "image": "https://example.com/images/o-apanhador-no-campo-de-centeio.jpg",
@@ -1260,21 +1212,21 @@
       "availability": false,
       "rating": 4.4,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "Clássico"],
-        "english": ["Fiction", "Drama", "Classic"]
+        "pt-BR": ["Ficção", "Drama", "Clássico"],
+        "en": ["Fiction", "Drama", "Classic"]
       },
       "publish_date": "1951-07-16"
     },
     {
       "id": 56,
       "title": {
-        "portuguese": "O Lobo de Wall Street",
-        "english": "The Wolf of Wall Street"
+        "pt-BR": "O Lobo de Wall Street",
+        "en": "The Wolf of Wall Street"
       },
       "author": "Jordan Belfort",
       "description": {
-        "portuguese": "A autobiografia do corretor da bolsa Jordan Belfort, que descreve sua ascensão e queda no mundo financeiro.",
-        "english": "The autobiography of stockbroker Jordan Belfort, detailing his rise and fall in the financial world."
+        "pt-BR": "A autobiografia do corretor da bolsa Jordan Belfort, que descreve sua ascensão e queda no mundo financeiro.",
+        "en": "The autobiography of stockbroker Jordan Belfort, detailing his rise and fall in the financial world."
       },
       "price": 22,
       "image": "https://example.com/images/o-lobo-de-wall-street.jpg",
@@ -1282,21 +1234,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Memórias", "Autobiografia", "Finanças"],
-        "english": ["Memoir", "Autobiography", "Finance"]
+        "pt-BR": ["Memórias", "Autobiografia", "Finanças"],
+        "en": ["Memoir", "Autobiography", "Finance"]
       },
       "publish_date": "2007-09-25"
     },
     {
       "id": 57,
       "title": {
-        "portuguese": "O Alquimista",
-        "english": "The Alchemist"
+        "pt-BR": "O Alquimista",
+        "en": "The Alchemist"
       },
       "author": "Paulo Coelho",
       "description": {
-        "portuguese": "A história de Santiago, um jovem pastor que segue seu sonho de encontrar um tesouro, aprendendo lições valiosas sobre a vida.",
-        "english": "The story of Santiago, a young shepherd who follows his dream of finding a treasure, learning valuable life lessons."
+        "pt-BR": "A história de Santiago, um jovem pastor que segue seu sonho de encontrar um tesouro, aprendendo lições valiosas sobre a vida.",
+        "en": "The story of Santiago, a young shepherd who follows his dream of finding a treasure, learning valuable life lessons."
       },
       "price": 18,
       "image": "https://example.com/images/o-alquimista.jpg",
@@ -1304,21 +1256,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Espiritualidade", "Aventura"],
-        "english": ["Fiction", "Spirituality", "Adventure"]
+        "pt-BR": ["Ficção", "Espiritualidade", "Aventura"],
+        "en": ["Fiction", "Spirituality", "Adventure"]
       },
       "publish_date": "1988-05-01"
     },
     {
       "id": 58,
       "title": {
-        "portuguese": "O Silmarillion",
-        "english": "The Silmarillion"
+        "pt-BR": "O Silmarillion",
+        "en": "The Silmarillion"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "Uma coleção de mitos e histórias que antecedem os eventos de 'O Senhor dos Anéis', revelando a criação da Terra-média e os elfos.",
-        "english": "A collection of myths and stories that precede the events of 'The Lord of the Rings', revealing the creation of Middle-Earth and the Elves."
+        "pt-BR": "Uma coleção de mitos e histórias que antecedem os eventos de 'O Senhor dos Anéis', revelando a criação da Terra-média e os elfos.",
+        "en": "A collection of myths and stories that precede the events of 'The Lord of the Rings', revealing the creation of Middle-Earth and the Elves."
       },
       "price": 21,
       "image": "https://example.com/images/o-silmarillion.jpg",
@@ -1326,21 +1278,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fantasia", "Mitologia", "Épico"],
-        "english": ["Fantasy", "Mythology", "Epic"]
+        "pt-BR": ["Fantasia", "Mitologia", "Épico"],
+        "en": ["Fantasy", "Mythology", "Epic"]
       },
       "publish_date": "1977-09-15"
     },
     {
       "id": 59,
       "title": {
-        "portuguese": "O Ciclo da Herança",
-        "english": "Eragon"
+        "pt-BR": "O Ciclo da Herança",
+        "en": "Eragon"
       },
       "author": "Christopher Paolini",
       "description": {
-        "portuguese": "A história de Eragon, um jovem que encontra um ovo de dragão e se torna um cavaleiro do dragão na luta contra um império tirânico.",
-        "english": "The story of Eragon, a young man who finds a dragon egg and becomes a Dragon Rider in the fight against a tyrannical empire."
+        "pt-BR": "A história de Eragon, um jovem que encontra um ovo de dragão e se torna um cavaleiro do dragão na luta contra um império tirânico.",
+        "en": "The story of Eragon, a young man who finds a dragon egg and becomes a Dragon Rider in the fight against a tyrannical empire."
       },
       "price": 17,
       "image": "https://example.com/images/o-ciclo-da-heranca.jpg",
@@ -1348,21 +1300,21 @@
       "availability": false,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "2002-08-26"
     },
     {
       "id": 60,
       "title": {
-        "portuguese": "A Marca de Atena",
-        "english": "The Mark of Athena"
+        "pt-BR": "A Marca de Atena",
+        "en": "The Mark of Athena"
       },
       "author": "Rick Riordan",
       "description": {
-        "portuguese": "Percy Jackson e seus amigos devem enfrentar novos desafios em sua missão para impedir a guerra entre os deuses gregos e romanos.",
-        "english": "Percy Jackson and his friends must face new challenges in their mission to prevent a war between Greek and Roman gods."
+        "pt-BR": "Percy Jackson e seus amigos devem enfrentar novos desafios em sua missão para impedir a guerra entre os deuses gregos e romanos.",
+        "en": "Percy Jackson and his friends must face new challenges in their mission to prevent a war between Greek and Roman gods."
       },
       "price": 23,
       "image": "https://example.com/images/a-marca-de-atena.jpg",
@@ -1370,21 +1322,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Juvenil"],
-        "english": ["Fantasy", "Adventure", "Young Adult"]
+        "pt-BR": ["Fantasia", "Aventura", "Juvenil"],
+        "en": ["Fantasy", "Adventure", "Young Adult"]
       },
       "publish_date": "2012-10-02"
     },
     {
       "id": 61,
       "title": {
-        "portuguese": "O Código Da Vinci",
-        "english": "The Da Vinci Code"
+        "pt-BR": "O Código Da Vinci",
+        "en": "The Da Vinci Code"
       },
       "author": "Dan Brown",
       "description": {
-        "portuguese": "O professor Robert Langdon se vê envolvido em uma trama de mistérios, símbolos e segredos sobre a verdadeira identidade de Jesus Cristo.",
-        "english": "Professor Robert Langdon becomes involved in a web of mysteries, symbols, and secrets about the true identity of Jesus Christ."
+        "pt-BR": "O professor Robert Langdon se vê envolvido em uma trama de mistérios, símbolos e segredos sobre a verdadeira identidade de Jesus Cristo.",
+        "en": "Professor Robert Langdon becomes involved in a web of mysteries, symbols, and secrets about the true identity of Jesus Christ."
       },
       "price": 20,
       "image": "https://example.com/images/o-codigo-da-vinci.jpg",
@@ -1392,21 +1344,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Mistério", "Thriller", "Suspense"],
-        "english": ["Mystery", "Thriller", "Suspense"]
+        "pt-BR": ["Mistério", "Thriller", "Suspense"],
+        "en": ["Mystery", "Thriller", "Suspense"]
       },
       "publish_date": "2003-03-18"
     },
     {
       "id": 62,
       "title": {
-        "portuguese": "O Hobbit",
-        "english": "The Hobbit"
+        "pt-BR": "O Hobbit",
+        "en": "The Hobbit"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "Bilbo Bolseiro embarca em uma aventura épica com um grupo de anões para recuperar um tesouro roubado do dragão Smaug.",
-        "english": "Bilbo Baggins embarks on an epic adventure with a group of dwarves to recover a stolen treasure from the dragon Smaug."
+        "pt-BR": "Bilbo Bolseiro embarca em uma aventura épica com um grupo de anões para recuperar um tesouro roubado do dragão Smaug.",
+        "en": "Bilbo Baggins embarks on an epic adventure with a group of dwarves to recover a stolen treasure from the dragon Smaug."
       },
       "price": 18,
       "image": "https://example.com/images/o-hobbit.jpg",
@@ -1414,21 +1366,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1937-09-21"
     },
     {
       "id": 63,
       "title": {
-        "portuguese": "1984",
-        "english": "1984"
+        "pt-BR": "1984",
+        "en": "1984"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Em um regime totalitário onde a liberdade é sufocada, Winston Smith tenta encontrar um pouco de humanidade em um mundo opressor.",
-        "english": "In a totalitarian regime where freedom is stifled, Winston Smith tries to find a shred of humanity in an oppressive world."
+        "pt-BR": "Em um regime totalitário onde a liberdade é sufocada, Winston Smith tenta encontrar um pouco de humanidade em um mundo opressor.",
+        "en": "In a totalitarian regime where freedom is stifled, Winston Smith tries to find a shred of humanity in an oppressive world."
       },
       "price": 19,
       "image": "https://example.com/images/1984.jpg",
@@ -1436,21 +1388,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Distopia", "Clássico"],
-        "english": ["Fiction", "Dystopia", "Classic"]
+        "pt-BR": ["Ficção", "Distopia", "Clássico"],
+        "en": ["Fiction", "Dystopia", "Classic"]
       },
       "publish_date": "1949-06-08"
     },
     {
       "id": 64,
       "title": {
-        "portuguese": "O Apanhador no Campo de Centeio",
-        "english": "The Catcher in the Rye"
+        "pt-BR": "O Apanhador no Campo de Centeio",
+        "en": "The Catcher in the Rye"
       },
       "author": "J.D. Salinger",
       "description": {
-        "portuguese": "A história de Holden Caulfield, um jovem que busca um significado para sua vida em uma sociedade que ele sente ser superficial.",
-        "english": "The story of Holden Caulfield, a young man searching for meaning in his life in a society he feels is shallow."
+        "pt-BR": "A história de Holden Caulfield, um jovem que busca um significado para sua vida em uma sociedade que ele sente ser superficial.",
+        "en": "The story of Holden Caulfield, a young man searching for meaning in his life in a society he feels is shallow."
       },
       "price": 17,
       "image": "https://example.com/images/o-apanhador-no-campo-de-centeio.jpg",
@@ -1458,21 +1410,21 @@
       "availability": false,
       "rating": 4.4,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "Clássico"],
-        "english": ["Fiction", "Drama", "Classic"]
+        "pt-BR": ["Ficção", "Drama", "Clássico"],
+        "en": ["Fiction", "Drama", "Classic"]
       },
       "publish_date": "1951-07-16"
     },
     {
       "id": 65,
       "title": {
-        "portuguese": "O Alquimista",
-        "english": "The Alchemist"
+        "pt-BR": "O Alquimista",
+        "en": "The Alchemist"
       },
       "author": "Paulo Coelho",
       "description": {
-        "portuguese": "A história de Santiago, um jovem pastor que segue seu sonho de encontrar um tesouro, aprendendo lições valiosas sobre a vida.",
-        "english": "The story of Santiago, a young shepherd who follows his dream of finding a treasure, learning valuable life lessons."
+        "pt-BR": "A história de Santiago, um jovem pastor que segue seu sonho de encontrar um tesouro, aprendendo lições valiosas sobre a vida.",
+        "en": "The story of Santiago, a young shepherd who follows his dream of finding a treasure, learning valuable life lessons."
       },
       "price": 18,
       "image": "https://example.com/images/o-alquimista.jpg",
@@ -1480,21 +1432,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção", "Espiritualidade", "Aventura"],
-        "english": ["Fiction", "Spirituality", "Adventure"]
+        "pt-BR": ["Ficção", "Espiritualidade", "Aventura"],
+        "en": ["Fiction", "Spirituality", "Adventure"]
       },
       "publish_date": "1988-05-01"
     },
     {
       "id": 66,
       "title": {
-        "portuguese": "O Senhor dos Anéis: A Sociedade do Anel",
-        "english": "The Lord of the Rings: The Fellowship of the Ring"
+        "pt-BR": "O Senhor dos Anéis: A Sociedade do Anel",
+        "en": "The Lord of the Rings: The Fellowship of the Ring"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "Frodo Bolseiro e seus amigos partem em uma jornada para destruir o Um Anel e impedir que o Senhor das Trevas conquiste a Terra-média.",
-        "english": "Frodo Baggins and his friends embark on a journey to destroy the One Ring and prevent the Dark Lord from conquering Middle-Earth."
+        "pt-BR": "Frodo Bolseiro e seus amigos partem em uma jornada para destruir o Um Anel e impedir que o Senhor das Trevas conquiste a Terra-média.",
+        "en": "Frodo Baggins and his friends embark on a journey to destroy the One Ring and prevent the Dark Lord from conquering Middle-Earth."
       },
       "price": 28,
       "image": "https://example.com/images/o-senhor-dos-aneis.jpg",
@@ -1502,21 +1454,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1954-07-29"
     },
     {
       "id": 67,
       "title": {
-        "portuguese": "O Grande Gatsby",
-        "english": "The Great Gatsby"
+        "pt-BR": "O Grande Gatsby",
+        "en": "The Great Gatsby"
       },
       "author": "F. Scott Fitzgerald",
       "description": {
-        "portuguese": "A história de Jay Gatsby, um homem misterioso e rico, e sua obsessão pela mulher que ele perdeu.",
-        "english": "The story of Jay Gatsby, a mysterious and wealthy man, and his obsession with the woman he lost."
+        "pt-BR": "A história de Jay Gatsby, um homem misterioso e rico, e sua obsessão pela mulher que ele perdeu.",
+        "en": "The story of Jay Gatsby, a mysterious and wealthy man, and his obsession with the woman he lost."
       },
       "price": 16,
       "image": "https://example.com/images/o-grande-gatsby.jpg",
@@ -1524,21 +1476,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Romance", "Drama", "Clássico"],
-        "english": ["Romance", "Drama", "Classic"]
+        "pt-BR": ["Romance", "Drama", "Clássico"],
+        "en": ["Romance", "Drama", "Classic"]
       },
       "publish_date": "1925-04-10"
     },
     {
       "id": 68,
       "title": {
-        "portuguese": "Mataram a Cotovia",
-        "english": "To Kill a Mockingbird"
+        "pt-BR": "Mataram a Cotovia",
+        "en": "To Kill a Mockingbird"
       },
       "author": "Harper Lee",
       "description": {
-        "portuguese": "A história de uma menina chamada Scout e de como ela observa as complexidades do racismo e da justiça no sul dos EUA.",
-        "english": "The story of a young girl named Scout and how she observes the complexities of racism and justice in the Southern U.S."
+        "pt-BR": "A história de uma menina chamada Scout e de como ela observa as complexidades do racismo e da justiça no sul dos EUA.",
+        "en": "The story of a young girl named Scout and how she observes the complexities of racism and justice in the Southern U.S."
       },
       "price": 18,
       "image": "https://example.com/images/mataram-a-cotovia.jpg",
@@ -1546,21 +1498,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "História"],
-        "english": ["Fiction", "Drama", "Historical"]
+        "pt-BR": ["Ficção", "Drama", "História"],
+        "en": ["Fiction", "Drama", "Historical"]
       },
       "publish_date": "1960-07-11"
     },
     {
       "id": 69,
       "title": {
-        "portuguese": "Orgulho e Preconceito",
-        "english": "Pride and Prejudice"
+        "pt-BR": "Orgulho e Preconceito",
+        "en": "Pride and Prejudice"
       },
       "author": "Jane Austen",
       "description": {
-        "portuguese": "A história de Elizabeth Bennet e sua relação com o orgulhoso Mr. Darcy, explorando questões de classe e casamento.",
-        "english": "The story of Elizabeth Bennet and her relationship with the proud Mr. Darcy, exploring issues of class and marriage."
+        "pt-BR": "A história de Elizabeth Bennet e sua relação com o orgulhoso Mr. Darcy, explorando questões de classe e casamento.",
+        "en": "The story of Elizabeth Bennet and her relationship with the proud Mr. Darcy, exploring issues of class and marriage."
       },
       "price": 16,
       "image": "https://example.com/images/orgulho-e-preconceito.jpg",
@@ -1568,21 +1520,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Drama"],
-        "english": ["Romance", "Classic", "Drama"]
+        "pt-BR": ["Romance", "Clássico", "Drama"],
+        "en": ["Romance", "Classic", "Drama"]
       },
       "publish_date": "1813-01-28"
     },
     {
       "id": 70,
       "title": {
-        "portuguese": "O Sol é Para Todos",
-        "english": "To Kill a Mockingbird"
+        "pt-BR": "O Sol é Para Todos",
+        "en": "To Kill a Mockingbird"
       },
       "author": "Harper Lee",
       "description": {
-        "portuguese": "A história de uma menina chamada Scout e de como ela observa as complexidades do racismo e da justiça no sul dos EUA.",
-        "english": "The story of a young girl named Scout and how she observes the complexities of racism and justice in the Southern U.S."
+        "pt-BR": "A história de uma menina chamada Scout e de como ela observa as complexidades do racismo e da justiça no sul dos EUA.",
+        "en": "The story of a young girl named Scout and how she observes the complexities of racism and justice in the Southern U.S."
       },
       "price": 18,
       "image": "https://example.com/images/o-sol-e-para-todos.jpg",
@@ -1590,21 +1542,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "História"],
-        "english": ["Fiction", "Drama", "Historical"]
+        "pt-BR": ["Ficção", "Drama", "História"],
+        "en": ["Fiction", "Drama", "Historical"]
       },
       "publish_date": "1960-07-11"
     },
     {
       "id": 71,
       "title": {
-        "portuguese": "O Pequeno Príncipe",
-        "english": "The Little Prince"
+        "pt-BR": "O Pequeno Príncipe",
+        "en": "The Little Prince"
       },
       "author": "Antoine de Saint-Exupéry",
       "description": {
-        "portuguese": "Uma obra filosófica que explora questões de amor, perda e a visão pura do mundo de uma criança.",
-        "english": "A philosophical work that explores themes of love, loss, and the pure vision of the world through a child's eyes."
+        "pt-BR": "Uma obra filosófica que explora questões de amor, perda e a visão pura do mundo de uma criança.",
+        "en": "A philosophical work that explores themes of love, loss, and the pure vision of the world through a child's eyes."
       },
       "price": 12,
       "image": "https://example.com/images/o-pequeno-principe.jpg",
@@ -1612,21 +1564,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Ficção", "Fábula", "Infantil"],
-        "english": ["Fiction", "Fable", "Children's"]
+        "pt-BR": ["Ficção", "Fábula", "Infantil"],
+        "en": ["Fiction", "Fable", "Children's"]
       },
       "publish_date": "1943-04-06"
     },
     {
       "id": 72,
       "title": {
-        "portuguese": "A Revolução dos Bichos",
-        "english": "Animal Farm"
+        "pt-BR": "A Revolução dos Bichos",
+        "en": "Animal Farm"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Uma alegoria sobre a Revolução Russa e o regime de Stalin, utilizando animais como metáforas para a política.",
-        "english": "An allegory about the Russian Revolution and Stalin's regime, using animals as metaphors for politics."
+        "pt-BR": "Uma alegoria sobre a Revolução Russa e o regime de Stalin, utilizando animais como metáforas para a política.",
+        "en": "An allegory about the Russian Revolution and Stalin's regime, using animals as metaphors for politics."
       },
       "price": 14,
       "image": "https://example.com/images/a-revolucao-dos-bichos.jpg",
@@ -1634,21 +1586,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Ficção", "Política", "Sátira"],
-        "english": ["Fiction", "Political", "Satire"]
+        "pt-BR": ["Ficção", "Política", "Sátira"],
+        "en": ["Fiction", "Political", "Satire"]
       },
       "publish_date": "1945-08-17"
     },
     {
       "id": 73,
       "title": {
-        "portuguese": "Cem Anos de Solidão",
-        "english": "One Hundred Years of Solitude"
+        "pt-BR": "Cem Anos de Solidão",
+        "en": "One Hundred Years of Solitude"
       },
       "author": "Gabriel García Márquez",
       "description": {
-        "portuguese": "A história de várias gerações da família Buendía, na fictícia cidade de Macondo, entrelaçando realismo mágico e eventos históricos.",
-        "english": "The story of several generations of the Buendía family, in the fictional town of Macondo, intertwining magical realism and historical events."
+        "pt-BR": "A história de várias gerações da família Buendía, na fictícia cidade de Macondo, entrelaçando realismo mágico e eventos históricos.",
+        "en": "The story of several generations of the Buendía family, in the fictional town of Macondo, intertwining magical realism and historical events."
       },
       "price": 24,
       "image": "https://example.com/images/cem-anos-de-solidao.jpg",
@@ -1656,21 +1608,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Ficção", "Realismo Mágico", "Clássico"],
-        "english": ["Fiction", "Magical Realism", "Classic"]
+        "pt-BR": ["Ficção", "Realismo Mágico", "Clássico"],
+        "en": ["Fiction", "Magical Realism", "Classic"]
       },
       "publish_date": "1967-06-05"
     },
     {
       "id": 74,
       "title": {
-        "portuguese": "A Menina que Roubava Livros",
-        "english": "The Book Thief"
+        "pt-BR": "A Menina que Roubava Livros",
+        "en": "The Book Thief"
       },
       "author": "Markus Zusak",
       "description": {
-        "portuguese": "Em plena Segunda Guerra Mundial, uma jovem chamada Liesel encontra consolo nos livros, enquanto testemunha os horrores da guerra.",
-        "english": "Set during World War II, a young girl named Liesel finds solace in books while witnessing the horrors of the war."
+        "pt-BR": "Em plena Segunda Guerra Mundial, uma jovem chamada Liesel encontra consolo nos livros, enquanto testemunha os horrores da guerra.",
+        "en": "Set during World War II, a young girl named Liesel finds solace in books while witnessing the horrors of the war."
       },
       "price": 19,
       "image": "https://example.com/images/a-menina-que-roubava-livros.jpg",
@@ -1678,21 +1630,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Ficção", "Histórico", "Drama"],
-        "english": ["Fiction", "Historical", "Drama"]
+        "pt-BR": ["Ficção", "Histórico", "Drama"],
+        "en": ["Fiction", "Historical", "Drama"]
       },
       "publish_date": "2005-03-14"
     },
     {
       "id": 75,
       "title": {
-        "portuguese": "O Senhor dos Anéis: As Duas Torres",
-        "english": "The Lord of the Rings: The Two Towers"
+        "pt-BR": "O Senhor dos Anéis: As Duas Torres",
+        "en": "The Lord of the Rings: The Two Towers"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "A segunda parte da saga de Frodo e seus amigos, que enfrentam novos perigos e batalhas na luta contra o Senhor das Trevas.",
-        "english": "The second part of Frodo's saga, as he and his friends face new dangers and battles in the fight against the Dark Lord."
+        "pt-BR": "A segunda parte da saga de Frodo e seus amigos, que enfrentam novos perigos e batalhas na luta contra o Senhor das Trevas.",
+        "en": "The second part of Frodo's saga, as he and his friends face new dangers and battles in the fight against the Dark Lord."
       },
       "price": 27,
       "image": "https://example.com/images/o-senhor-dos-aneis-as-duas-torres.jpg",
@@ -1700,21 +1652,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1954-11-11"
     },
     {
       "id": 76,
       "title": {
-        "portuguese": "O Apanhador no Campo de Centeio",
-        "english": "The Catcher in the Rye"
+        "pt-BR": "O Apanhador no Campo de Centeio",
+        "en": "The Catcher in the Rye"
       },
       "author": "J.D. Salinger",
       "description": {
-        "portuguese": "A história de Holden Caulfield, um adolescente rebelde que enfrenta os desafios da adolescência e da vida adulta.",
-        "english": "The story of Holden Caulfield, a rebellious teenager who faces the challenges of adolescence and adulthood."
+        "pt-BR": "A história de Holden Caulfield, um adolescente rebelde que enfrenta os desafios da adolescência e da vida adulta.",
+        "en": "The story of Holden Caulfield, a rebellious teenager who faces the challenges of adolescence and adulthood."
       },
       "price": 16,
       "image": "https://example.com/images/o-apanhador-no-campo-de-centeio.jpg",
@@ -1722,21 +1674,21 @@
       "availability": true,
       "rating": 4.4,
       "genre": {
-        "portuguese": ["Ficção", "Drama", "Clássico"],
-        "english": ["Fiction", "Drama", "Classic"]
+        "pt-BR": ["Ficção", "Drama", "Clássico"],
+        "en": ["Fiction", "Drama", "Classic"]
       },
       "publish_date": "1951-07-16"
     },
     {
       "id": 77,
       "title": {
-        "portuguese": "O Último Desejo",
-        "english": "The Last Wish"
+        "pt-BR": "O Último Desejo",
+        "en": "The Last Wish"
       },
       "author": "Andrzej Sapkowski",
       "description": {
-        "portuguese": "Geralt de Rívia, um caçador de monstros, enfrenta desafios e intrigas em um mundo medieval cheio de magia e perigo.",
-        "english": "Geralt of Rivia, a monster hunter, faces challenges and intrigues in a medieval world filled with magic and danger."
+        "pt-BR": "Geralt de Rívia, um caçador de monstros, enfrenta desafios e intrigas em um mundo medieval cheio de magia e perigo.",
+        "en": "Geralt of Rivia, a monster hunter, faces challenges and intrigues in a medieval world filled with magic and danger."
       },
       "price": 22,
       "image": "https://example.com/images/o-ultimo-desejo.jpg",
@@ -1744,21 +1696,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Épico"],
-        "english": ["Fantasy", "Adventure", "Epic"]
+        "pt-BR": ["Fantasia", "Aventura", "Épico"],
+        "en": ["Fantasy", "Adventure", "Epic"]
       },
       "publish_date": "1993-12-01"
     },
     {
       "id": 78,
       "title": {
-        "portuguese": "O Nome do Vento",
-        "english": "The Name of the Wind"
+        "pt-BR": "O Nome do Vento",
+        "en": "The Name of the Wind"
       },
       "author": "Patrick Rothfuss",
       "description": {
-        "portuguese": "Kvothe, o lendário herói, conta sua história de como se tornou uma figura mítica no mundo da magia e da música.",
-        "english": "Kvothe, the legendary hero, tells his story of how he became a mythical figure in the world of magic and music."
+        "pt-BR": "Kvothe, o lendário herói, conta sua história de como se tornou uma figura mítica no mundo da magia e da música.",
+        "en": "Kvothe, the legendary hero, tells his story of how he became a mythical figure in the world of magic and music."
       },
       "price": 25,
       "image": "https://example.com/images/o-nome-do-vento.jpg",
@@ -1766,21 +1718,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fantasia", "Aventura", "Magia"],
-        "english": ["Fantasy", "Adventure", "Magic"]
+        "pt-BR": ["Fantasia", "Aventura", "Magia"],
+        "en": ["Fantasy", "Adventure", "Magic"]
       },
       "publish_date": "2007-03-27"
     },
     {
       "id": 79,
       "title": {
-        "portuguese": "O Morro dos Ventos Uivantes",
-        "english": "Wuthering Heights"
+        "pt-BR": "O Morro dos Ventos Uivantes",
+        "en": "Wuthering Heights"
       },
       "author": "Emily Brontë",
       "description": {
-        "portuguese": "A história de amor e vingança entre Heathcliff e Catherine, em uma das mais intensas narrativas da literatura inglesa.",
-        "english": "The story of love and revenge between Heathcliff and Catherine, one of the most intense narratives in English literature."
+        "pt-BR": "A história de amor e vingança entre Heathcliff e Catherine, em uma das mais intensas narrativas da literatura inglesa.",
+        "en": "The story of love and revenge between Heathcliff and Catherine, one of the most intense narratives in English literature."
       },
       "price": 14,
       "image": "https://example.com/images/o-morro-dos-ventos-uivantes.jpg",
@@ -1788,21 +1740,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Romance", "Gótico", "Clássico"],
-        "english": ["Romance", "Gothic", "Classic"]
+        "pt-BR": ["Romance", "Gótico", "Clássico"],
+        "en": ["Romance", "Gothic", "Classic"]
       },
       "publish_date": "1847-12-01"
     },
     {
       "id": 80,
       "title": {
-        "portuguese": "Dom Casmurro",
-        "english": "Dom Casmurro"
+        "pt-BR": "Dom Casmurro",
+        "en": "Dom Casmurro"
       },
       "author": "Machado de Assis",
       "description": {
-        "portuguese": "Bentinho narra sua vida e seu amor por Capitu, em uma história repleta de ambiguidade e mistério.",
-        "english": "Bentinho narrates his life and his love for Capitu, in a story full of ambiguity and mystery."
+        "pt-BR": "Bentinho narra sua vida e seu amor por Capitu, em uma história repleta de ambiguidade e mistério.",
+        "en": "Bentinho narrates his life and his love for Capitu, in a story full of ambiguity and mystery."
       },
       "price": 18,
       "image": "https://example.com/images/dom-casmurro.jpg",
@@ -1810,21 +1762,21 @@
       "availability": false,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Romance", "Clássico", "Ficção"],
-        "english": ["Romance", "Classic", "Fiction"]
+        "pt-BR": ["Romance", "Clássico", "Ficção"],
+        "en": ["Romance", "Classic", "Fiction"]
       },
       "publish_date": "1899-02-01"
     },
     {
       "id": 81,
       "title": {
-        "portuguese": "A Casa dos Espíritos",
-        "english": "The House of the Spirits"
+        "pt-BR": "A Casa dos Espíritos",
+        "en": "The House of the Spirits"
       },
       "author": "Isabel Allende",
       "description": {
-        "portuguese": "A história da família Trueba, que atravessa gerações em um Chile marcado por grandes transformações políticas e sociais.",
-        "english": "The story of the Trueba family, spanning generations in Chile marked by great political and social transformations."
+        "pt-BR": "A história da família Trueba, que atravessa gerações em um Chile marcado por grandes transformações políticas e sociais.",
+        "en": "The story of the Trueba family, spanning generations in Chile marked by great political and social transformations."
       },
       "price": 20,
       "image": "https://example.com/images/a-casa-dos-espiritos.jpg",
@@ -1832,21 +1784,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Ficção", "Histórico", "Realismo Mágico"],
-        "english": ["Fiction", "Historical", "Magical Realism"]
+        "pt-BR": ["Ficção", "Histórico", "Realismo Mágico"],
+        "en": ["Fiction", "Historical", "Magical Realism"]
       },
       "publish_date": "1982-11-29"
     },
     {
       "id": 82,
       "title": {
-        "portuguese": "A Sombra do Vento",
-        "english": "The Shadow of the Wind"
+        "pt-BR": "A Sombra do Vento",
+        "en": "The Shadow of the Wind"
       },
       "author": "Carlos Ruiz Zafón",
       "description": {
-        "portuguese": "O jovem Daniel descobre um livro misterioso que o leva a investigar a vida de seu autor e desvendar segredos sombrios.",
-        "english": "Young Daniel discovers a mysterious book that leads him to investigate the life of its author and uncover dark secrets."
+        "pt-BR": "O jovem Daniel descobre um livro misterioso que o leva a investigar a vida de seu autor e desvendar segredos sombrios.",
+        "en": "Young Daniel discovers a mysterious book that leads him to investigate the life of its author and uncover dark secrets."
       },
       "price": 22,
       "image": "https://example.com/images/a-sombra-do-vento.jpg",
@@ -1854,21 +1806,21 @@
       "availability": false,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Mistério", "Romance", "Suspense"],
-        "english": ["Mystery", "Romance", "Suspense"]
+        "pt-BR": ["Mistério", "Romance", "Suspense"],
+        "en": ["Mystery", "Romance", "Suspense"]
       },
       "publish_date": "2001-11-04"
     },
     {
       "id": 83,
       "title": {
-        "portuguese": "O Silmarillion",
-        "english": "The Silmarillion"
+        "pt-BR": "O Silmarillion",
+        "en": "The Silmarillion"
       },
       "author": "J.R.R. Tolkien",
       "description": {
-        "portuguese": "A obra descreve a mitologia e a história antiga da Terra-média, o mundo onde se passa a história de 'O Senhor dos Anéis'.",
-        "english": "The work describes the mythology and ancient history of Middle-Earth, the world where the story of 'The Lord of the Rings' takes place."
+        "pt-BR": "A obra descreve a mitologia e a história antiga da Terra-média, o mundo onde se passa a história de 'O Senhor dos Anéis'.",
+        "en": "The work describes the mythology and ancient history of Middle-Earth, the world where the story of 'The Lord of the Rings' takes place."
       },
       "price": 29,
       "image": "https://example.com/images/o-silmarillion.jpg",
@@ -1876,21 +1828,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Fantasia", "Mitologia", "Épico"],
-        "english": ["Fantasy", "Mythology", "Epic"]
+        "pt-BR": ["Fantasia", "Mitologia", "Épico"],
+        "en": ["Fantasy", "Mythology", "Epic"]
       },
       "publish_date": "1977-09-15"
     },
     {
       "id": 84,
       "title": {
-        "portuguese": "O Circo da Noite",
-        "english": "The Night Circus"
+        "pt-BR": "O Circo da Noite",
+        "en": "The Night Circus"
       },
       "author": "Erin Morgenstern",
       "description": {
-        "portuguese": "Dois jovens magos entram em uma competição mortal dentro de um circo místico, com uma história cheia de mistérios e encantos.",
-        "english": "Two young magicians enter a deadly competition within a mystical circus, with a story full of mysteries and enchantments."
+        "pt-BR": "Dois jovens magos entram em uma competição mortal dentro de um circo místico, com uma história cheia de mistérios e encantos.",
+        "en": "Two young magicians enter a deadly competition within a mystical circus, with a story full of mysteries and enchantments."
       },
       "price": 26,
       "image": "https://example.com/images/o-circo-da-noite.jpg",
@@ -1898,21 +1850,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Fantasia", "Mistério", "Romance"],
-        "english": ["Fantasy", "Mystery", "Romance"]
+        "pt-BR": ["Fantasia", "Mistério", "Romance"],
+        "en": ["Fantasy", "Mystery", "Romance"]
       },
       "publish_date": "2011-09-13"
     },
     {
       "id": 85,
       "title": {
-        "portuguese": "A Vida Imortal de Henrietta Lacks",
-        "english": "The Immortal Life of Henrietta Lacks"
+        "pt-BR": "A Vida Imortal de Henrietta Lacks",
+        "en": "The Immortal Life of Henrietta Lacks"
       },
       "author": "Rebecca Skloot",
       "description": {
-        "portuguese": "A biografia de Henrietta Lacks, cujas células foram usadas sem seu consentimento para importantes descobertas científicas.",
-        "english": "The biography of Henrietta Lacks, whose cells were used without her consent for important scientific breakthroughs."
+        "pt-BR": "A biografia de Henrietta Lacks, cujas células foram usadas sem seu consentimento para importantes descobertas científicas.",
+        "en": "The biography of Henrietta Lacks, whose cells were used without her consent for important scientific breakthroughs."
       },
       "price": 20,
       "image": "https://example.com/images/a-vida-imortal-de-henrietta-lacks.jpg",
@@ -1920,21 +1872,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Biografia", "História", "Ciência"],
-        "english": ["Biography", "History", "Science"]
+        "pt-BR": ["Biografia", "História", "Ciência"],
+        "en": ["Biography", "History", "Science"]
       },
       "publish_date": "2010-02-02"
     },
     {
       "id": 86,
       "title": {
-        "portuguese": "O Lado Bom da Vida",
-        "english": "The Silver Linings Playbook"
+        "pt-BR": "O Lado Bom da Vida",
+        "en": "The Silver Linings Playbook"
       },
       "author": "Matthew Quick",
       "description": {
-        "portuguese": "Pat Peoples tenta reconstruir sua vida após uma crise mental, enquanto lida com os desafios do amor e da recuperação.",
-        "english": "Pat Peoples tries to rebuild his life after a mental breakdown while dealing with the challenges of love and recovery."
+        "pt-BR": "Pat Peoples tenta reconstruir sua vida após uma crise mental, enquanto lida com os desafios do amor e da recuperação.",
+        "en": "Pat Peoples tries to rebuild his life after a mental breakdown while dealing with the challenges of love and recovery."
       },
       "price": 17,
       "image": "https://example.com/images/o-lado-bom-da-vida.jpg",
@@ -1942,21 +1894,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Romance", "Drama", "Comédia"],
-        "english": ["Romance", "Drama", "Comedy"]
+        "pt-BR": ["Romance", "Drama", "Comédia"],
+        "en": ["Romance", "Drama", "Comedy"]
       },
       "publish_date": "2008-09-09"
     },
     {
       "id": 87,
       "title": {
-        "portuguese": "A Garota no Trem",
-        "english": "The Girl on the Train"
+        "pt-BR": "A Garota no Trem",
+        "en": "The Girl on the Train"
       },
       "author": "Paula Hawkins",
       "description": {
-        "portuguese": "Rachel, uma mulher que viaja de trem todos os dias, se envolve em uma trama de mistério quando testemunha algo perturbador durante a viagem.",
-        "english": "Rachel, a woman who commutes by train every day, gets involved in a mystery when she witnesses something disturbing during her journey."
+        "pt-BR": "Rachel, uma mulher que viaja de trem todos os dias, se envolve em uma trama de mistério quando testemunha algo perturbador durante a viagem.",
+        "en": "Rachel, a woman who commutes by train every day, gets involved in a mystery when she witnesses something disturbing during her journey."
       },
       "price": 19,
       "image": "https://example.com/images/a-garota-no-trem.jpg",
@@ -1964,21 +1916,21 @@
       "availability": false,
       "rating": 4.2,
       "genre": {
-        "portuguese": ["Mistério", "Suspense", "Psicológico"],
-        "english": ["Mystery", "Suspense", "Psychological"]
+        "pt-BR": ["Mistério", "Suspense", "Psicológico"],
+        "en": ["Mystery", "Suspense", "Psychological"]
       },
       "publish_date": "2015-01-13"
     },
     {
       "id": 88,
       "title": {
-        "portuguese": "O Poder do Hábito",
-        "english": "The Power of Habit"
+        "pt-BR": "O Poder do Hábito",
+        "en": "The Power of Habit"
       },
       "author": "Charles Duhigg",
       "description": {
-        "portuguese": "Uma análise sobre como os hábitos funcionam e como podem ser mudados para melhorar a vida pessoal e profissional.",
-        "english": "An analysis of how habits work and how they can be changed to improve personal and professional life."
+        "pt-BR": "Uma análise sobre como os hábitos funcionam e como podem ser mudados para melhorar a vida pessoal e profissional.",
+        "en": "An analysis of how habits work and how they can be changed to improve personal and professional life."
       },
       "price": 21,
       "image": "https://example.com/images/o-poder-do-habito.jpg",
@@ -1986,21 +1938,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Psicologia", "Autoajuda", "Ciência"],
-        "english": ["Psychology", "Self-help", "Science"]
+        "pt-BR": ["Psicologia", "Autoajuda", "Ciência"],
+        "en": ["Psychology", "Self-help", "Science"]
       },
       "publish_date": "2012-02-28"
     },
     {
       "id": 89,
       "title": {
-        "portuguese": "Os Homens que Não Amavam as Mulheres",
-        "english": "The Girl with the Dragon Tattoo"
+        "pt-BR": "Os Homens que Não Amavam as Mulheres",
+        "en": "The Girl with the Dragon Tattoo"
       },
       "author": "Stieg Larsson",
       "description": {
-        "portuguese": "A história de um jornalista investigativo e uma hacker que se unem para resolver o mistério do desaparecimento de uma jovem há 40 anos.",
-        "english": "The story of an investigative journalist and a hacker who team up to solve the mystery of a young woman's disappearance 40 years ago."
+        "pt-BR": "A história de um jornalista investigativo e uma hacker que se unem para resolver o mistério do desaparecimento de uma jovem há 40 anos.",
+        "en": "The story of an investigative journalist and a hacker who team up to solve the mystery of a young woman's disappearance 40 years ago."
       },
       "price": 23,
       "image": "https://example.com/images/os-homens-que-nao-amavam-as-mulheres.jpg",
@@ -2008,21 +1960,21 @@
       "availability": false,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Mistério", "Suspense", "Thriller"],
-        "english": ["Mystery", "Suspense", "Thriller"]
+        "pt-BR": ["Mistério", "Suspense", "Thriller"],
+        "en": ["Mystery", "Suspense", "Thriller"]
       },
       "publish_date": "2005-08-01"
     },
     {
       "id": 90,
       "title": {
-        "portuguese": "A Vida Secreta das Árvores",
-        "english": "The Hidden Life of Trees"
+        "pt-BR": "A Vida Secreta das Árvores",
+        "en": "The Hidden Life of Trees"
       },
       "author": "Peter Wohlleben",
       "description": {
-        "portuguese": "O autor explora o fascinante mundo das árvores e como elas se comunicam entre si, compartilham recursos e se protegem.",
-        "english": "The author explores the fascinating world of trees and how they communicate, share resources, and protect one another."
+        "pt-BR": "O autor explora o fascinante mundo das árvores e como elas se comunicam entre si, compartilham recursos e se protegem.",
+        "en": "The author explores the fascinating world of trees and how they communicate, share resources, and protect one another."
       },
       "price": 22,
       "image": "https://example.com/images/a-vida-secreta-das-arvores.jpg",
@@ -2030,21 +1982,21 @@
       "availability": true,
       "rating": 4.8,
       "genre": {
-        "portuguese": ["Ciência", "Natureza", "Meio Ambiente"],
-        "english": ["Science", "Nature", "Environment"]
+        "pt-BR": ["Ciência", "Natureza", "Meio Ambiente"],
+        "en": ["Science", "Nature", "Environment"]
       },
       "publish_date": "2015-03-01"
     },
     {
       "id": 91,
       "title": {
-        "portuguese": "O Milagre da Manhã",
-        "english": "The Miracle Morning"
+        "pt-BR": "O Milagre da Manhã",
+        "en": "The Miracle Morning"
       },
       "author": "Hal Elrod",
       "description": {
-        "portuguese": "Um livro sobre como mudar sua vida criando uma rotina matinal produtiva, baseada em hábitos positivos e autoaperfeiçoamento.",
-        "english": "A book about how to change your life by creating a productive morning routine, based on positive habits and self-improvement."
+        "pt-BR": "Um livro sobre como mudar sua vida criando uma rotina matinal produtiva, baseada em hábitos positivos e autoaperfeiçoamento.",
+        "en": "A book about how to change your life by creating a productive morning routine, based on positive habits and self-improvement."
       },
       "price": 16,
       "image": "https://example.com/images/o-milagre-da-manha.jpg",
@@ -2052,21 +2004,21 @@
       "availability": true,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Autoajuda", "Motivação", "Bem-estar"],
-        "english": ["Self-help", "Motivation", "Wellness"]
+        "pt-BR": ["Autoajuda", "Motivação", "Bem-estar"],
+        "en": ["Self-help", "Motivation", "Wellness"]
       },
       "publish_date": "2012-10-10"
     },
     {
       "id": 92,
       "title": {
-        "portuguese": "1984",
-        "english": "1984"
+        "pt-BR": "1984",
+        "en": "1984"
       },
       "author": "George Orwell",
       "description": {
-        "portuguese": "Uma distopia sobre uma sociedade totalitária que monitora e controla a vida dos cidadãos. O livro é um alerta contra o autoritarismo.",
-        "english": "A dystopian novel about a totalitarian society that monitors and controls the lives of citizens. The book serves as a warning against authoritarianism."
+        "pt-BR": "Uma distopia sobre uma sociedade totalitária que monitora e controla a vida dos cidadãos. O livro é um alerta contra o autoritarismo.",
+        "en": "A dystopian novel about a totalitarian society that monitors and controls the lives of citizens. The book serves as a warning against authoritarianism."
       },
       "price": 18,
       "image": "https://example.com/images/1984.jpg",
@@ -2074,21 +2026,21 @@
       "availability": false,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Distopia", "Política", "Clássico"],
-        "english": ["Dystopia", "Politics", "Classic"]
+        "pt-BR": ["Distopia", "Política", "Clássico"],
+        "en": ["Dystopia", "Politics", "Classic"]
       },
       "publish_date": "1949-06-08"
     },
     {
       "id": 93,
       "title": {
-        "portuguese": "O Enigma do Outro Mundo",
-        "english": "The Thing"
+        "pt-BR": "O Enigma do Outro Mundo",
+        "en": "The Thing"
       },
       "author": "John W. Campbell",
       "description": {
-        "portuguese": "Em uma estação de pesquisa no Ártico, uma equipe de cientistas enfrenta uma criatura alienígena que pode se transformar em qualquer ser vivo.",
-        "english": "In an Arctic research station, a team of scientists faces an alien creature that can transform into any living being."
+        "pt-BR": "Em uma estação de pesquisa no Ártico, uma equipe de cientistas enfrenta uma criatura alienígena que pode se transformar em qualquer ser vivo.",
+        "en": "In an Arctic research station, a team of scientists faces an alien creature that can transform into any living being."
       },
       "price": 15,
       "image": "https://example.com/images/o-enigma-do-outro-mundo.jpg",
@@ -2096,21 +2048,21 @@
       "availability": true,
       "rating": 4.4,
       "genre": {
-        "portuguese": ["Ficção Científica", "Mistério", "Terror"],
-        "english": ["Science Fiction", "Mystery", "Horror"]
+        "pt-BR": ["Ficção Científica", "Mistério", "Terror"],
+        "en": ["Science Fiction", "Mystery", "Horror"]
       },
       "publish_date": "1938-08-01"
     },
     {
       "id": 94,
       "title": {
-        "portuguese": "O Segredo",
-        "english": "The Secret"
+        "pt-BR": "O Segredo",
+        "en": "The Secret"
       },
       "author": "Rhonda Byrne",
       "description": {
-        "portuguese": "Um guia sobre o poder da mente e a importância de manter uma atitude positiva para alcançar o sucesso e a felicidade.",
-        "english": "A guide about the power of the mind and the importance of maintaining a positive attitude to achieve success and happiness."
+        "pt-BR": "Um guia sobre o poder da mente e a importância de manter uma atitude positiva para alcançar o sucesso e a felicidade.",
+        "en": "A guide about the power of the mind and the importance of maintaining a positive attitude to achieve success and happiness."
       },
       "price": 17,
       "image": "https://example.com/images/o-segredo.jpg",
@@ -2118,21 +2070,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Autoajuda", "Motivação", "Filosofia"],
-        "english": ["Self-help", "Motivation", "Philosophy"]
+        "pt-BR": ["Autoajuda", "Motivação", "Filosofia"],
+        "en": ["Self-help", "Motivation", "Philosophy"]
       },
       "publish_date": "2006-11-28"
     },
     {
       "id": 95,
       "title": {
-        "portuguese": "O Homem de Giz",
-        "english": "The Chalk Man"
+        "pt-BR": "O Homem de Giz",
+        "en": "The Chalk Man"
       },
       "author": "C.J. Tudor",
       "description": {
-        "portuguese": "Um thriller psicológico onde um grupo de amigos tenta resolver o mistério de uma série de assassinatos ligados a desenhos de giz.",
-        "english": "A psychological thriller where a group of friends tries to solve the mystery of a series of murders connected to chalk drawings."
+        "pt-BR": "Um thriller psicológico onde um grupo de amigos tenta resolver o mistério de uma série de assassinatos ligados a desenhos de giz.",
+        "en": "A psychological thriller where a group of friends tries to solve the mystery of a series of murders connected to chalk drawings."
       },
       "price": 20,
       "image": "https://example.com/images/o-homem-de-giz.jpg",
@@ -2140,21 +2092,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Mistério", "Thriller", "Suspense"],
-        "english": ["Mystery", "Thriller", "Suspense"]
+        "pt-BR": ["Mistério", "Thriller", "Suspense"],
+        "en": ["Mystery", "Thriller", "Suspense"]
       },
       "publish_date": "2018-01-09"
     },
     {
       "id": 96,
       "title": {
-        "portuguese": "A Arte da Guerra",
-        "english": "The Art of War"
+        "pt-BR": "A Arte da Guerra",
+        "en": "The Art of War"
       },
       "author": "Sun Tzu",
       "description": {
-        "portuguese": "Um clássico da estratégia militar, oferecendo conselhos sobre como vencer batalhas e guerras através da sabedoria e do planejamento.",
-        "english": "A classic of military strategy, offering advice on how to win battles and wars through wisdom and planning."
+        "pt-BR": "Um clássico da estratégia militar, oferecendo conselhos sobre como vencer batalhas e guerras através da sabedoria e do planejamento.",
+        "en": "A classic of military strategy, offering advice on how to win battles and wars through wisdom and planning."
       },
       "price": 12,
       "image": "https://example.com/images/a-arte-da-guerra.jpg",
@@ -2162,21 +2114,21 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Estratégia", "História", "Filosofia"],
-        "english": ["Strategy", "History", "Philosophy"]
+        "pt-BR": ["Estratégia", "História", "Filosofia"],
+        "en": ["Strategy", "History", "Philosophy"]
       },
       "publish_date": "500 BC"
     },
     {
       "id": 97,
       "title": {
-        "portuguese": "A Cabana",
-        "english": "The Shack"
+        "pt-BR": "A Cabana",
+        "en": "The Shack"
       },
       "author": "William P. Young",
       "description": {
-        "portuguese": "Após uma tragédia pessoal, Mackenzie é convidado a passar um fim de semana em uma cabana isolada, onde descobre novas perspectivas sobre a fé e a perda.",
-        "english": "After a personal tragedy, Mackenzie is invited to spend a weekend at an isolated shack, where he discovers new perspectives on faith and loss."
+        "pt-BR": "Após uma tragédia pessoal, Mackenzie é convidado a passar um fim de semana em uma cabana isolada, onde descobre novas perspectivas sobre a fé e a perda.",
+        "en": "After a personal tragedy, Mackenzie is invited to spend a weekend at an isolated shack, where he discovers new perspectives on faith and loss."
       },
       "price": 18,
       "image": "https://example.com/images/a-cabana.jpg",
@@ -2184,21 +2136,21 @@
       "availability": true,
       "rating": 4.5,
       "genre": {
-        "portuguese": ["Ficção", "Religião", "Espiritualidade"],
-        "english": ["Fiction", "Religion", "Spirituality"]
+        "pt-BR": ["Ficção", "Religião", "Espiritualidade"],
+        "en": ["Fiction", "Religion", "Spirituality"]
       },
       "publish_date": "2007-05-17"
     },
     {
       "id": 98,
       "title": {
-        "portuguese": "A Menina que Perdeu a Alma",
-        "english": "The Girl Who Lost Her Soul"
+        "pt-BR": "A Menina que Perdeu a Alma",
+        "en": "The Girl Who Lost Her Soul"
       },
       "author": "David Mitchell",
       "description": {
-        "portuguese": "Uma história fascinante que mistura ficção científica e filosofia, explorando temas como identidade e a luta pela liberdade.",
-        "english": "A fascinating story that blends science fiction and philosophy, exploring themes such as identity and the fight for freedom."
+        "pt-BR": "Uma história fascinante que mistura ficção científica e filosofia, explorando temas como identidade e a luta pela liberdade.",
+        "en": "A fascinating story that blends science fiction and philosophy, exploring themes such as identity and the fight for freedom."
       },
       "price": 21,
       "image": "https://example.com/images/a-menina-que-perdeu-a-alma.jpg",
@@ -2206,21 +2158,21 @@
       "availability": false,
       "rating": 4.6,
       "genre": {
-        "portuguese": ["Ficção Científica", "Filosofia", "Mistério"],
-        "english": ["Science Fiction", "Philosophy", "Mystery"]
+        "pt-BR": ["Ficção Científica", "Filosofia", "Mistério"],
+        "en": ["Science Fiction", "Philosophy", "Mystery"]
       },
       "publish_date": "2010-09-28"
     },
     {
       "id": 99,
       "title": {
-        "portuguese": "Cem Anos de Solidão",
-        "english": "One Hundred Years of Solitude"
+        "pt-BR": "Cem Anos de Solidão",
+        "en": "One Hundred Years of Solitude"
       },
       "author": "Gabriel García Márquez",
       "description": {
-        "portuguese": "A épica saga da família Buendía, em Macondo, onde o realismo mágico se mistura com os eventos históricos e a evolução de uma linhagem.",
-        "english": "The epic saga of the Buendía family in Macondo, where magical realism intertwines with historical events and the evolution of a lineage."
+        "pt-BR": "A épica saga da família Buendía, em Macondo, onde o realismo mágico se mistura com os eventos históricos e a evolução de uma linhagem.",
+        "en": "The epic saga of the Buendía family in Macondo, where magical realism intertwines with historical events and the evolution of a lineage."
       },
       "price": 23,
       "image": "https://example.com/images/cem-anos-de-solidao.jpg",
@@ -2228,21 +2180,21 @@
       "availability": true,
       "rating": 4.9,
       "genre": {
-        "portuguese": ["Realismo Mágico", "Ficção", "Clássico"],
-        "english": ["Magical Realism", "Fiction", "Classic"]
+        "pt-BR": ["Realismo Mágico", "Ficção", "Clássico"],
+        "en": ["Magical Realism", "Fiction", "Classic"]
       },
       "publish_date": "1967-06-05"
     },
     {
       "id": 100,
       "title": {
-        "portuguese": "O Grande Gatsby",
-        "english": "The Great Gatsby"
+        "pt-BR": "O Grande Gatsby",
+        "en": "The Great Gatsby"
       },
       "author": "F. Scott Fitzgerald",
       "description": {
-        "portuguese": "A história do milionário Jay Gatsby e seu amor impossível por Daisy Buchanan, explorando os excessos e as tragédias do sonho americano.",
-        "english": "The story of the millionaire Jay Gatsby and his impossible love for Daisy Buchanan, exploring the excesses and tragedies of the American Dream."
+        "pt-BR": "A história do milionário Jay Gatsby e seu amor impossível por Daisy Buchanan, explorando os excessos e as tragédias do sonho americano.",
+        "en": "The story of the millionaire Jay Gatsby and his impossible love for Daisy Buchanan, exploring the excesses and tragedies of the American Dream."
       },
       "price": 17,
       "image": "https://example.com/images/o-grande-gatsby.jpg",
@@ -2250,8 +2202,8 @@
       "availability": true,
       "rating": 4.7,
       "genre": {
-        "portuguese": ["Romance", "Drama", "Clássico"],
-        "english": ["Romance", "Drama", "Classic"]
+        "pt-BR": ["Romance", "Drama", "Clássico"],
+        "en": ["Romance", "Drama", "Classic"]
       },
       "publish_date": "1925-04-10"
     }

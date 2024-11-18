@@ -1,13 +1,14 @@
 import { ChangeEvent } from "react";
 import * as MuiIcons from "@mui/icons-material";
 
-interface InputProps {
+export interface InputProps {
   label?: string;
   icon?: keyof typeof MuiIcons;
   iconPosition?: "left" | "right" | "both";
   value: string;
   name?: string;
   type?: string;
+  isSearch?: boolean;
   onChange: (v: string) => void;
   onClick?: (v: any) => void;
 }
@@ -19,6 +20,7 @@ export function Input({
   value,
   name,
   type = "text",
+  isSearch,
   onChange,
   onClick,
 }: InputProps) {
@@ -32,7 +34,9 @@ export function Input({
   }
 
   return (
-    <div className="w-full h-auto py-2 px-3 rounded-lg border border-gray-400 flex items-center gap-2">
+    <div
+      className={`w-full h-auto py-2 px-3 rounded-lg ${isSearch ? "border-y border-l rounded-e-none" : "border"} border-gray-400 flex items-center gap-2 bg-white`}
+    >
       {(iconPosition === "left" || isBoth) && IconElement && (
         <IconElement
           data-testid={`left-${icon}`}
@@ -48,15 +52,19 @@ export function Input({
         onChange={handleChange}
         className="w-full h-ful outline-none"
       />
-      {(iconPosition === "right" || (isBoth && !!value)) && IconElement && (
-        <button onClick={onClick}>
-          <IconElementClick
-            data-testid={`right-${isBoth ? "Close" : icon}`}
-            fontSize="small"
-            color="action"
-          />
-        </button>
-      )}
+      <div className="w-5 h-auto">
+        {(iconPosition === "right" || isBoth) &&
+          (isSearch ? !!value : true) &&
+          IconElement && (
+            <button onClick={onClick} type="button">
+              <IconElementClick
+                data-testid={`right-${isBoth ? "Close" : icon}`}
+                fontSize="small"
+                color="action"
+              />
+            </button>
+          )}
+      </div>
     </div>
   );
 }

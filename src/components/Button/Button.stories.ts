@@ -1,10 +1,10 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import { fn } from "@storybook/test";
 
-import { Button } from "../components/Button/Button";
+import { Button } from "./Button";
 
-const meta = {
-  title: "Example/Button",
+const meta: Meta<typeof Button> = {
+  title: "Components/Button",
   component: Button,
   parameters: {
     layout: "centered",
@@ -17,10 +17,10 @@ const meta = {
     },
   },
   args: { onClick: fn() },
-} satisfies Meta<typeof Button>;
+};
 
 export default meta;
-type Story = StoryObj<typeof meta>;
+type Story = StoryObj<typeof Button>;
 
 export const Default: Story = {
   args: {
