@@ -2,6 +2,38 @@
 
 **Rent a Story** is a website development project for online book rentals, created with the goal of providing a simple and accessible platform for users to rent books across various genres. The system allows users to browse a catalog of books, select a desired title, and rent it for a flexible period.
 
+## Installation
+
+Install rent-a-story with npm:
+
+```bash
+  npm install rent-a-story
+  cd rent-a-story
+```
+
+- Run the command to load the mock data:
+
+  - http://localhost:5001
+
+  ```bash
+  npm run server
+  ```
+
+- Run the command to start the application:
+  - http://localhost:2100
+  ```bash
+  npm run start
+  ```
+- Run the command to start Storybook:
+  - http://localhost:6006
+  ```bash
+  npm run storybook
+  ```
+- Run the command to execute tests:
+  ```bash
+  npm run test
+  ```
+
 ## Stacks used
 
 <div id="badges" style="display: flex; gap: 0.625rem; flex-wrap: wrap;">
@@ -16,7 +48,7 @@
   <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand Badge"/>
   <img src="https://img.shields.io/badge/husky-%2320232a.svg?style=for-the-badge&logo=husky&logoColor=white" alt="Husky Badge"/>
   <img src="https://img.shields.io/badge/axios-%2320232a.svg?style=for-the-badge&logo=husky&logoColor=white" alt="Axios Badge"/>
-
+  <img src="https://img.shields.io/badge/json_server-%2320232a.svg?style=for-the-badge&logo=json-server&logoColor=white" alt="Json Server Badge"/>
   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query Badge"/>
 
 </div>
