@@ -35,7 +35,9 @@ Install rent-a-story with npm:
   ```
 
 ## Login credentials
+
 user: jessica_jones
+
 password: 1234
 
 ## Stacks used
