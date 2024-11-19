@@ -34,6 +34,10 @@ Install rent-a-story with npm:
   npm run test
   ```
 
+## Login credentials
+user: jessica_jones
+password: 1234
+
 ## Stacks used
 
 <div id="badges" style="display: flex; gap: 0.625rem; flex-wrap: wrap;">
